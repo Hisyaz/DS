@@ -1,0 +1,2199 @@
+{
+  "stats": {
+    "pace": {
+      "key": "pace",
+      "names": {
+        "en-GB": "Pace",
+        "es-ES": "Ritmo",
+        "es-AR": "Velocidad",
+        "pt-BR": "Ritmo",
+        "fr-FR": "Vitesse"
+      },
+      "abbr": {
+        "en-GB": "PAC",
+        "es-ES": "RIT",
+        "es-AR": "VEL",
+        "pt-BR": "RIT",
+        "fr-FR": "VIT"
+      }
+    },
+    "shooting": {
+      "key": "shooting",
+      "names": {
+        "en-GB": "Shooting",
+        "es-ES": "Tiro",
+        "es-AR": "Definición",
+        "pt-BR": "Finalização",
+        "fr-FR": "Tir"
+      },
+      "abbr": {
+        "en-GB": "SHO",
+        "es-ES": "TIR",
+        "es-AR": "DEF",
+        "pt-BR": "FIN",
+        "fr-FR": "TIR"
+      }
+    },
+    "passing": {
+      "key": "passing",
+      "names": {
+        "en-GB": "Passing",
+        "es-ES": "Pase",
+        "es-AR": "Pase",
+        "pt-BR": "Passe",
+        "fr-FR": "Passe"
+      },
+      "abbr": {
+        "en-GB": "PAS",
+        "es-ES": "PAS",
+        "es-AR": "PAS",
+        "pt-BR": "PAS",
+        "fr-FR": "PAS"
+      }
+    },
+    "dribbling": {
+      "key": "dribbling",
+      "names": {
+        "en-GB": "Dribbling",
+        "es-ES": "Regate",
+        "es-AR": "Gambeta",
+        "pt-BR": "Drible",
+        "fr-FR": "Dribble"
+      },
+      "abbr": {
+        "en-GB": "DRI",
+        "es-ES": "REG",
+        "es-AR": "GAM",
+        "pt-BR": "DRI",
+        "fr-FR": "DRI"
+      }
+    },
+    "defending": {
+      "key": "defending",
+      "names": {
+        "en-GB": "Defending",
+        "es-ES": "Defensa",
+        "es-AR": "Defensa",
+        "pt-BR": "Defesa",
+        "fr-FR": "Défense"
+      },
+      "abbr": {
+        "en-GB": "DEF",
+        "es-ES": "DEF",
+        "es-AR": "DEF",
+        "pt-BR": "DEF",
+        "fr-FR": "DÉF"
+      }
+    },
+    "physical": {
+      "key": "physical",
+      "names": {
+        "en-GB": "Physicality",
+        "es-ES": "Físico",
+        "es-AR": "Físico",
+        "pt-BR": "Físico",
+        "fr-FR": "Physique"
+      },
+      "abbr": {
+        "en-GB": "PHY",
+        "es-ES": "FIS",
+        "es-AR": "FIS",
+        "pt-BR": "FIS",
+        "fr-FR": "PHY"
+      }
+    },
+    "pro": {
+      "key": "pro",
+      "names": {
+        "en-GB": "Progression",
+        "es-ES": "Progresión",
+        "es-AR": "Progresión",
+        "pt-BR": "Progressão",
+        "fr-FR": "Progression"
+      },
+      "abbr": {
+        "en-GB": "PRO",
+        "es-ES": "PRO",
+        "es-AR": "PRO",
+        "pt-BR": "PRO",
+        "fr-FR": "PRO"
+      }
+    },
+    "cre": {
+      "key": "cre",
+      "names": {
+        "en-GB": "Creation",
+        "es-ES": "Creación",
+        "es-AR": "Creación",
+        "pt-BR": "Criação",
+        "fr-FR": "Création"
+      },
+      "abbr": {
+        "en-GB": "CRE",
+        "es-ES": "CRE",
+        "es-AR": "CRE",
+        "pt-BR": "CRI",
+        "fr-FR": "CRÉ"
+      }
+    },
+    "men": {
+      "key": "men",
+      "names": {
+        "en-GB": "Mentality",
+        "es-ES": "Mentalidad",
+        "es-AR": "Mentalidad",
+        "pt-BR": "Mentalidade",
+        "fr-FR": "Mental"
+      },
+      "abbr": {
+        "en-GB": "MEN",
+        "es-ES": "MEN",
+        "es-AR": "MEN",
+        "pt-BR": "MEN",
+        "fr-FR": "MEN"
+      }
+    },
+    "sco": {
+      "key": "sco",
+      "names": {
+        "en-GB": "Goalscoring",
+        "es-ES": "Goleador",
+        "es-AR": "Poder de Gol",
+        "pt-BR": "Goleador",
+        "fr-FR": "Finition But"
+      },
+      "abbr": {
+        "en-GB": "SCO",
+        "es-ES": "GOL",
+        "es-AR": "GOL",
+        "pt-BR": "GOL",
+        "fr-FR": "BUT"
+      }
+    },
+    "acceleration": {
+      "key": "acceleration",
+      "names": {
+        "en-GB": "Acceleration",
+        "es-ES": "Aceleración",
+        "es-AR": "Aceleración",
+        "pt-BR": "Aceleração",
+        "fr-FR": "Accélération"
+      },
+      "abbr": {
+        "en-GB": "ACC",
+        "es-ES": "ACE",
+        "es-AR": "ACE",
+        "pt-BR": "ACE",
+        "fr-FR": "ACC"
+      }
+    },
+    "sprintSpeed": {
+      "key": "sprintSpeed",
+      "names": {
+        "en-GB": "Sprint Speed",
+        "es-ES": "Velocidad",
+        "es-AR": "Velocidad Máxima",
+        "pt-BR": "Velocidade Final",
+        "fr-FR": "Vitesse de sprint"
+      },
+      "abbr": {
+        "en-GB": "SPD",
+        "es-ES": "VEL",
+        "es-AR": "VEL",
+        "pt-BR": "VEL",
+        "fr-FR": "VIT"
+      }
+    },
+    "stamina": {
+      "key": "stamina",
+      "names": {
+        "en-GB": "Stamina",
+        "es-ES": "Resistencia",
+        "es-AR": "Resistencia",
+        "pt-BR": "Fôlego",
+        "fr-FR": "Endurance"
+      },
+      "abbr": {
+        "en-GB": "STA",
+        "es-ES": "RES",
+        "es-AR": "RES",
+        "pt-BR": "FOL",
+        "fr-FR": "END"
+      }
+    },
+    "strength": {
+      "key": "strength",
+      "names": {
+        "en-GB": "Strength",
+        "es-ES": "Fuerza",
+        "es-AR": "Fuerza",
+        "pt-BR": "Força",
+        "fr-FR": "Force"
+      },
+      "abbr": {
+        "en-GB": "STR",
+        "es-ES": "FUE",
+        "es-AR": "FUE",
+        "pt-BR": "FOR",
+        "fr-FR": "FOR"
+      }
+    },
+    "composure": {
+      "key": "composure",
+      "names": {
+        "en-GB": "Composure",
+        "es-ES": "Compostura",
+        "es-AR": "Templanza",
+        "pt-BR": "Compostura",
+        "fr-FR": "Sang-froid"
+      },
+      "abbr": {
+        "en-GB": "CMP",
+        "es-ES": "CMP",
+        "es-AR": "TEM",
+        "pt-BR": "CMP",
+        "fr-FR": "SAN"
+      }
+    },
+    "positioning": {
+      "key": "positioning",
+      "names": {
+        "en-GB": "Positioning",
+        "es-ES": "Posicionamiento",
+        "es-AR": "Ubicación Ofensiva",
+        "pt-BR": "Posicionamento",
+        "fr-FR": "Placement"
+      },
+      "abbr": {
+        "en-GB": "POS",
+        "es-ES": "POS",
+        "es-AR": "UBI",
+        "pt-BR": "POS",
+        "fr-FR": "PLA"
+      }
+    },
+    "finishing": {
+      "key": "finishing",
+      "names": {
+        "en-GB": "Finishing",
+        "es-ES": "Finalización",
+        "es-AR": "Definición",
+        "pt-BR": "Finalização",
+        "fr-FR": "Finition"
+      },
+      "abbr": {
+        "en-GB": "FIN",
+        "es-ES": "FIN",
+        "es-AR": "DEF",
+        "pt-BR": "FIN",
+        "fr-FR": "FIN"
+      }
+    },
+    "shotPower": {
+      "key": "shotPower",
+      "names": {
+        "en-GB": "Shot Power",
+        "es-ES": "Potencia de Tiro",
+        "es-AR": "Potencia de Tiro",
+        "pt-BR": "Força do Chute",
+        "fr-FR": "Puissance de tir"
+      },
+      "abbr": {
+        "en-GB": "POW",
+        "es-ES": "POT",
+        "es-AR": "POT",
+        "pt-BR": "FOR",
+        "fr-FR": "PUI"
+      }
+    },
+    "longShots": {
+      "key": "longShots",
+      "names": {
+        "en-GB": "Long Shots",
+        "es-ES": "Tiros Lejanos",
+        "es-AR": "Remates Lejanos",
+        "pt-BR": "Chutes de Longe",
+        "fr-FR": "Tirs de loin"
+      },
+      "abbr": {
+        "en-GB": "LNG",
+        "es-ES": "LEJ",
+        "es-AR": "LEJ",
+        "pt-BR": "LON",
+        "fr-FR": "LOI"
+      }
+    },
+    "volleys": {
+      "key": "volleys",
+      "names": {
+        "en-GB": "Volleys",
+        "es-ES": "Voleas",
+        "es-AR": "Voleas",
+        "pt-BR": "Voleios",
+        "fr-FR": "Reprises de volée"
+      },
+      "abbr": {
+        "en-GB": "VOL",
+        "es-ES": "VOL",
+        "es-AR": "VOL",
+        "pt-BR": "VOL",
+        "fr-FR": "VOL"
+      }
+    },
+    "penalties": {
+      "key": "penalties",
+      "names": {
+        "en-GB": "Penalties",
+        "es-ES": "Penaltis",
+        "es-AR": "Penales",
+        "pt-BR": "Pênaltis",
+        "fr-FR": "Penaltys"
+      },
+      "abbr": {
+        "en-GB": "PEN",
+        "es-ES": "PEN",
+        "es-AR": "PEN",
+        "pt-BR": "PEN",
+        "fr-FR": "PEN"
+      }
+    },
+    "shortPass": {
+      "key": "shortPass",
+      "names": {
+        "en-GB": "Short Pass",
+        "es-ES": "Pase Corto",
+        "es-AR": "Pase Corto",
+        "pt-BR": "Passe Curto",
+        "fr-FR": "Passes courtes"
+      },
+      "abbr": {
+        "en-GB": "PAS",
+        "es-ES": "COR",
+        "es-AR": "COR",
+        "pt-BR": "CUR",
+        "fr-FR": "COU"
+      }
+    },
+    "longPass": {
+      "key": "longPass",
+      "names": {
+        "en-GB": "Long Pass",
+        "es-ES": "Pase Largo",
+        "es-AR": "Pase Largo",
+        "pt-BR": "Passe Longo",
+        "fr-FR": "Passes longues"
+      },
+      "abbr": {
+        "en-GB": "LNG",
+        "es-ES": "LAR",
+        "es-AR": "LAR",
+        "pt-BR": "LON",
+        "fr-FR": "LON"
+      }
+    },
+    "vision": {
+      "key": "vision",
+      "names": {
+        "en-GB": "Vision",
+        "es-ES": "Visión",
+        "es-AR": "Visión de Juego",
+        "pt-BR": "Visão de Jogo",
+        "fr-FR": "Vista"
+      },
+      "abbr": {
+        "en-GB": "VIS",
+        "es-ES": "VIS",
+        "es-AR": "VIS",
+        "pt-BR": "VIS",
+        "fr-FR": "VIS"
+      }
+    },
+    "crossing": {
+      "key": "crossing",
+      "names": {
+        "en-GB": "Crossing",
+        "es-ES": "Centros",
+        "es-AR": "Centros",
+        "pt-BR": "Cruzamentos",
+        "fr-FR": "Centres"
+      },
+      "abbr": {
+        "en-GB": "CRS",
+        "es-ES": "CEN",
+        "es-AR": "CEN",
+        "pt-BR": "CRU",
+        "fr-FR": "CEN"
+      }
+    },
+    "curve": {
+      "key": "curve",
+      "names": {
+        "en-GB": "Curve",
+        "es-ES": "Efecto",
+        "es-AR": "Chanfle / Efecto",
+        "pt-BR": "Curva",
+        "fr-FR": "Effet"
+      },
+      "abbr": {
+        "en-GB": "CRV",
+        "es-ES": "EFE",
+        "es-AR": "CHA",
+        "pt-BR": "CUR",
+        "fr-FR": "EFF"
+      }
+    },
+    "freeKick": {
+      "key": "freeKick",
+      "names": {
+        "en-GB": "Free Kick",
+        "es-ES": "Tiros Libres",
+        "es-AR": "Tiros Libres",
+        "pt-BR": "Faltas",
+        "fr-FR": "Coups francs"
+      },
+      "abbr": {
+        "en-GB": "FK",
+        "es-ES": "FAL",
+        "es-AR": "TL",
+        "pt-BR": "FAL",
+        "fr-FR": "CF"
+      }
+    },
+    "ballControl": {
+      "key": "ballControl",
+      "names": {
+        "en-GB": "Ball Control",
+        "es-ES": "Control de Balón",
+        "es-AR": "Control de Balón",
+        "pt-BR": "Domínio de Bola",
+        "fr-FR": "Contrôle du ballon"
+      },
+      "abbr": {
+        "en-GB": "CTL",
+        "es-ES": "CTR",
+        "es-AR": "CTR",
+        "pt-BR": "DOM",
+        "fr-FR": "CTR"
+      }
+    },
+    "retention": {
+      "key": "retention",
+      "names": {
+        "en-GB": "Ball Retention",
+        "es-ES": "Retención de Balón",
+        "es-AR": "Retención de Pelota",
+        "pt-BR": "Retenção de Bola",
+        "fr-FR": "Conservation de balle"
+      },
+      "abbr": {
+        "en-GB": "RET",
+        "es-ES": "RET",
+        "es-AR": "RET",
+        "pt-BR": "RET",
+        "fr-FR": "CON"
+      }
+    },
+    "agility": {
+      "key": "agility",
+      "names": {
+        "en-GB": "Agility",
+        "es-ES": "Agilidad",
+        "es-AR": "Agilidad",
+        "pt-BR": "Agilidade",
+        "fr-FR": "Agilité"
+      },
+      "abbr": {
+        "en-GB": "AGI",
+        "es-ES": "AGI",
+        "es-AR": "AGI",
+        "pt-BR": "AGI",
+        "fr-FR": "AGI"
+      }
+    },
+    "balance": {
+      "key": "balance",
+      "names": {
+        "en-GB": "Balance",
+        "es-ES": "Equilibrio",
+        "es-AR": "Equilibrio",
+        "pt-BR": "Equilíbrio",
+        "fr-FR": "Équilibre"
+      },
+      "abbr": {
+        "en-GB": "BAL",
+        "es-ES": "EQU",
+        "es-AR": "EQU",
+        "pt-BR": "EQU",
+        "fr-FR": "EQU"
+      }
+    },
+    "reactions": {
+      "key": "reactions",
+      "names": {
+        "en-GB": "Reactions",
+        "es-ES": "Reacción",
+        "es-AR": "Reacción",
+        "pt-BR": "Reações",
+        "fr-FR": "Réactivité"
+      },
+      "abbr": {
+        "en-GB": "REA",
+        "es-ES": "REA",
+        "es-AR": "REA",
+        "pt-BR": "REA",
+        "fr-FR": "RÉA"
+      }
+    },
+    "tackling": {
+      "key": "tackling",
+      "names": {
+        "en-GB": "Tackling",
+        "es-ES": "Entradas",
+        "es-AR": "Quites",
+        "pt-BR": "Desarmes",
+        "fr-FR": "Tacles debout"
+      },
+      "abbr": {
+        "en-GB": "TCK",
+        "es-ES": "ENT",
+        "es-AR": "QUI",
+        "pt-BR": "DES",
+        "fr-FR": "TAC"
+      }
+    },
+    "standingTackle": {
+      "key": "standingTackle",
+      "names": {
+        "en-GB": "Standing Tackle",
+        "es-ES": "Entrada Normal",
+        "es-AR": "Quite de Pie",
+        "pt-BR": "Desarme em Pé",
+        "fr-FR": "Tacle debout"
+      },
+      "abbr": {
+        "en-GB": "TCK",
+        "es-ES": "ENT",
+        "es-AR": "QUI",
+        "pt-BR": "DES",
+        "fr-FR": "TAC"
+      }
+    },
+    "slidingTackle": {
+      "key": "slidingTackle",
+      "names": {
+        "en-GB": "Sliding Tackle",
+        "es-ES": "Segada",
+        "es-AR": "Barrida",
+        "pt-BR": "Carrinho",
+        "fr-FR": "Tacle glissé"
+      },
+      "abbr": {
+        "en-GB": "SLD",
+        "es-ES": "SEG",
+        "es-AR": "BAR",
+        "pt-BR": "CAR",
+        "fr-FR": "GLI"
+      }
+    },
+    "interceptions": {
+      "key": "interceptions",
+      "names": {
+        "en-GB": "Interceptions",
+        "es-ES": "Intercepciones",
+        "es-AR": "Intercepciones",
+        "pt-BR": "Interceptações",
+        "fr-FR": "Interceptions"
+      },
+      "abbr": {
+        "en-GB": "INT",
+        "es-ES": "INT",
+        "es-AR": "INT",
+        "pt-BR": "INT",
+        "fr-FR": "INT"
+      }
+    },
+    "heading": {
+      "key": "heading",
+      "names": {
+        "en-GB": "Heading",
+        "es-ES": "Cabeceo",
+        "es-AR": "Cabeceo",
+        "pt-BR": "Cabeceio",
+        "fr-FR": "Précision tête"
+      },
+      "abbr": {
+        "en-GB": "HEA",
+        "es-ES": "CAB",
+        "es-AR": "CAB",
+        "pt-BR": "CAB",
+        "fr-FR": "TET"
+      }
+    },
+    "jumping": {
+      "key": "jumping",
+      "names": {
+        "en-GB": "Jumping",
+        "es-ES": "Salto",
+        "es-AR": "Salto",
+        "pt-BR": "Impulsão",
+        "fr-FR": "Détente"
+      },
+      "abbr": {
+        "en-GB": "JMP",
+        "es-ES": "SAL",
+        "es-AR": "SAL",
+        "pt-BR": "IMP",
+        "fr-FR": "DET"
+      }
+    },
+    "aggression": {
+      "key": "aggression",
+      "names": {
+        "en-GB": "Aggression",
+        "es-ES": "Agresividad",
+        "es-AR": "Agresividad",
+        "pt-BR": "Agressividade",
+        "fr-FR": "Agressivité"
+      },
+      "abbr": {
+        "en-GB": "AGG",
+        "es-ES": "AGR",
+        "es-AR": "AGR",
+        "pt-BR": "AGR",
+        "fr-FR": "AGR"
+      }
+    },
+    "defensiveAwareness": {
+      "key": "defensiveAwareness",
+      "names": {
+        "en-GB": "Defensive Awareness",
+        "es-ES": "Percepción Defensiva",
+        "es-AR": "Lectura Defensiva",
+        "pt-BR": "Noção Defensiva",
+        "fr-FR": "Conscience défensive"
+      },
+      "abbr": {
+        "en-GB": "AWA",
+        "es-ES": "DEF",
+        "es-AR": "DEF",
+        "pt-BR": "DEF",
+        "fr-FR": "DEF"
+      }
+    },
+    "marking": {
+      "key": "marking",
+      "names": {
+        "en-GB": "Marking",
+        "es-ES": "Marcaje",
+        "es-AR": "Marca al Hombre",
+        "pt-BR": "Marcação",
+        "fr-FR": "Marquage"
+      },
+      "abbr": {
+        "en-GB": "MRK",
+        "es-ES": "MAR",
+        "es-AR": "MAR",
+        "pt-BR": "MAR",
+        "fr-FR": "MAR"
+      }
+    },
+    "saving": {
+      "key": "saving",
+      "names": {
+        "en-GB": "Saving",
+        "es-ES": "Paradas",
+        "es-AR": "Atajadas",
+        "pt-BR": "Defesas",
+        "fr-FR": "Arrêts"
+      },
+      "abbr": {
+        "en-GB": "SAV",
+        "es-ES": "PAR",
+        "es-AR": "ATA",
+        "pt-BR": "DEF",
+        "fr-FR": "ARR"
+      }
+    },
+    "diving": {
+      "key": "diving",
+      "names": {
+        "en-GB": "Diving",
+        "es-ES": "Estirada",
+        "es-AR": "Estirada",
+        "pt-BR": "Elasticidade",
+        "fr-FR": "Plongeon"
+      },
+      "abbr": {
+        "en-GB": "DIV",
+        "es-ES": "EST",
+        "es-AR": "EST",
+        "pt-BR": "ELA",
+        "fr-FR": "PLO"
+      }
+    },
+    "handling": {
+      "key": "handling",
+      "names": {
+        "en-GB": "Handling",
+        "es-ES": "Blocaje",
+        "es-AR": "Seguridad de Manos",
+        "pt-BR": "Firmeza de Mãos",
+        "fr-FR": "Jeu à la main"
+      },
+      "abbr": {
+        "en-GB": "HAN",
+        "es-ES": "BLO",
+        "es-AR": "AGU",
+        "pt-BR": "MÃO",
+        "fr-FR": "PRI"
+      }
+    },
+    "kicking": {
+      "key": "kicking",
+      "names": {
+        "en-GB": "Kicking",
+        "es-ES": "Saques",
+        "es-AR": "Saque de Meta",
+        "pt-BR": "Chute do Goleiro",
+        "fr-FR": "Dégagement"
+      },
+      "abbr": {
+        "en-GB": "KIC",
+        "es-ES": "SAQ",
+        "es-AR": "SAQ",
+        "pt-BR": "CHU",
+        "fr-FR": "DEG"
+      }
+    },
+    "reflexes": {
+      "key": "reflexes",
+      "names": {
+        "en-GB": "Reflexes",
+        "es-ES": "Reflejos",
+        "es-AR": "Reflejos",
+        "pt-BR": "Reflexos",
+        "fr-FR": "Réflexes"
+      },
+      "abbr": {
+        "en-GB": "REF",
+        "es-ES": "REF",
+        "es-AR": "REF",
+        "pt-BR": "REF",
+        "fr-FR": "REF"
+      }
+    },
+    "gkPositioning": {
+      "key": "gkPositioning",
+      "names": {
+        "en-GB": "GK Positioning",
+        "es-ES": "Colocación",
+        "es-AR": "Posicionamiento Arquero",
+        "pt-BR": "Posicionamento Goleiro",
+        "fr-FR": "Placement gardien"
+      },
+      "abbr": {
+        "en-GB": "POS",
+        "es-ES": "COL",
+        "es-AR": "UBC",
+        "pt-BR": "POS",
+        "fr-FR": "PLA"
+      }
+    },
+    "aerialReach": {
+      "key": "aerialReach",
+      "names": {
+        "en-GB": "Aerial Reach",
+        "es-ES": "Alcance Aéreo",
+        "es-AR": "Salida Aérea",
+        "pt-BR": "Alcance Aéreo",
+        "fr-FR": "Portée Aérienne"
+      },
+      "abbr": {
+        "en-GB": "AER",
+        "es-ES": "AÉR",
+        "es-AR": "AÉR",
+        "pt-BR": "AÉR",
+        "fr-FR": "AÉR"
+      }
+    },
+    "oneOnOne": {
+      "key": "oneOnOne",
+      "names": {
+        "en-GB": "One-on-One",
+        "es-ES": "Mano a Mano",
+        "es-AR": "Mano a Mano",
+        "pt-BR": "1 Contra 1",
+        "fr-FR": "Un-contre-Un"
+      },
+      "abbr": {
+        "en-GB": "ONE",
+        "es-ES": "MAN",
+        "es-AR": "1v1",
+        "pt-BR": "1v1",
+        "fr-FR": "1v1"
+      }
+    },
+    "distribution": {
+      "key": "distribution",
+      "names": {
+        "en-GB": "Distribution",
+        "es-ES": "Distribución",
+        "es-AR": "Salida de Juego",
+        "pt-BR": "Lançamento",
+        "fr-FR": "Relance"
+      },
+      "abbr": {
+        "en-GB": "DIS",
+        "es-ES": "SAQ",
+        "es-AR": "SAQ",
+        "pt-BR": "LAN",
+        "fr-FR": "REL"
+      }
+    }
+  },
+  "positions": {
+    "GK": {
+      "code": "GK",
+      "category": "GK",
+      "names": {
+        "en-GB": "Goalkeeper",
+        "es-ES": "Portero",
+        "es-AR": "Arquero",
+        "pt-BR": "Goleiro",
+        "fr-FR": "Gardien de but"
+      }
+    },
+    "DF": {
+      "code": "DF",
+      "category": "DF",
+      "names": {
+        "en-GB": "Defender",
+        "es-ES": "Defensa",
+        "es-AR": "Defensor",
+        "pt-BR": "Defensor",
+        "fr-FR": "Défenseur"
+      }
+    },
+    "MF": {
+      "code": "MF",
+      "category": "MF",
+      "names": {
+        "en-GB": "Midfielder",
+        "es-ES": "Centrocampista",
+        "es-AR": "Mediocampista",
+        "pt-BR": "Meio-campista",
+        "fr-FR": "Milieu de terrain"
+      }
+    },
+    "FW": {
+      "code": "FW",
+      "category": "FW",
+      "names": {
+        "en-GB": "Forward",
+        "es-ES": "Delantero",
+        "es-AR": "Delantero",
+        "pt-BR": "Atacante",
+        "fr-FR": "Attaquant"
+      }
+    },
+    "CB": {
+      "code": "CB",
+      "category": "DF",
+      "names": {
+        "en-GB": "Centre-Back",
+        "es-ES": "Defensa Central",
+        "es-AR": "Marcador Central",
+        "pt-BR": "Zagueiro",
+        "fr-FR": "Défenseur Central"
+      }
+    },
+    "LB": {
+      "code": "LB",
+      "category": "DF",
+      "names": {
+        "en-GB": "Left-Back",
+        "es-ES": "Lateral Izquierdo",
+        "es-AR": "Lateral Izquierdo",
+        "pt-BR": "Lateral Esquerdo",
+        "fr-FR": "Latéral Gauche"
+      }
+    },
+    "RB": {
+      "code": "RB",
+      "category": "DF",
+      "names": {
+        "en-GB": "Right-Back",
+        "es-ES": "Lateral Derecho",
+        "es-AR": "Lateral Derecho",
+        "pt-BR": "Lateral Direito",
+        "fr-FR": "Latéral Droit"
+      }
+    },
+    "LWB": {
+      "code": "LWB",
+      "category": "DF",
+      "names": {
+        "en-GB": "Left Wing-Back",
+        "es-ES": "Carrilero Izquierdo",
+        "es-AR": "Carrilero Izquierdo",
+        "pt-BR": "Ala Esquerdo",
+        "fr-FR": "Piston Gauche"
+      }
+    },
+    "RWB": {
+      "code": "RWB",
+      "category": "DF",
+      "names": {
+        "en-GB": "Right Wing-Back",
+        "es-ES": "Carrilero Derecho",
+        "es-AR": "Carrilero Derecho",
+        "pt-BR": "Ala Direito",
+        "fr-FR": "Piston Droit"
+      }
+    },
+    "CDM": {
+      "code": "CDM",
+      "category": "MF",
+      "names": {
+        "en-GB": "Defensive Midfielder",
+        "es-ES": "Pivote Defensivo",
+        "es-AR": "Volante Central",
+        "pt-BR": "Primeiro Volante",
+        "fr-FR": "Milieu Défensif"
+      }
+    },
+    "CM": {
+      "code": "CM",
+      "category": "MF",
+      "names": {
+        "en-GB": "Central Midfielder",
+        "es-ES": "Mediocentro",
+        "es-AR": "Mediocampista Central",
+        "pt-BR": "Meio-Campo Central",
+        "fr-FR": "Milieu Central"
+      }
+    },
+    "CAM": {
+      "code": "CAM",
+      "category": "MF",
+      "names": {
+        "en-GB": "Attacking Midfielder",
+        "es-ES": "Mediapunta",
+        "es-AR": "Enganche",
+        "pt-BR": "Meia-Atacante",
+        "fr-FR": "Milieu Offensif"
+      }
+    },
+    "LM": {
+      "code": "LM",
+      "category": "MF",
+      "names": {
+        "en-GB": "Left Midfielder",
+        "es-ES": "Interior Izquierdo",
+        "es-AR": "Volante Izquierdo",
+        "pt-BR": "Meia Esquerda",
+        "fr-FR": "Milieu Gauche"
+      }
+    },
+    "RM": {
+      "code": "RM",
+      "category": "MF",
+      "names": {
+        "en-GB": "Right Midfielder",
+        "es-ES": "Interior Derecho",
+        "es-AR": "Volante Derecho",
+        "pt-BR": "Meia Direita",
+        "fr-FR": "Milieu Droit"
+      }
+    },
+    "LW": {
+      "code": "LW",
+      "category": "FW",
+      "names": {
+        "en-GB": "Left Winger",
+        "es-ES": "Extremo Izquierdo",
+        "es-AR": "Extremo Izquierdo",
+        "pt-BR": "Ponta Esquerda",
+        "fr-FR": "Ailier Gauche"
+      }
+    },
+    "RW": {
+      "code": "RW",
+      "category": "FW",
+      "names": {
+        "en-GB": "Right Winger",
+        "es-ES": "Extremo Derecho",
+        "es-AR": "Extremo Derecho",
+        "pt-BR": "Ponta Direita",
+        "fr-FR": "Ailier Droit"
+      }
+    },
+    "ST": {
+      "code": "ST",
+      "category": "FW",
+      "names": {
+        "en-GB": "Striker",
+        "es-ES": "Delantero Centro",
+        "es-AR": "Centrodelantero",
+        "pt-BR": "Centroavante",
+        "fr-FR": "Buteur"
+      }
+    },
+    "CF": {
+      "code": "CF",
+      "category": "FW",
+      "names": {
+        "en-GB": "Centre-Forward",
+        "es-ES": "Segundo Delantero",
+        "es-AR": "Segundo Delantero",
+        "pt-BR": "Segundo Atacante",
+        "fr-FR": "Attaquant de Soutien"
+      }
+    }
+  },
+  "playstyles": {
+    "poacher": {
+      "id": "poacher",
+      "names": {
+        "en-GB": "Poacher",
+        "es-ES": "Cazagoles",
+        "es-AR": "Goleador de Área",
+        "pt-BR": "Artilheiro de Área",
+        "fr-FR": "Renard des Surfaces"
+      },
+      "descriptions": {
+        "en-GB": "Lurks on the shoulder of the last defender, lethal inside the 18-yard box.",
+        "es-ES": "Merodea en la espalda del último defensa, letal dentro del área penal.",
+        "es-AR": "Vive al límite del fuera de juego, implacable dentro del área grande.",
+        "pt-BR": "Joga no limite do impedimento, letal dentro da grande área.",
+        "fr-FR": "Rôde à la limite du hors-jeu, d'un réalisme impitoyable dans la surface."
+      }
+    },
+    "playmaker": {
+      "id": "playmaker",
+      "names": {
+        "en-GB": "Playmaker",
+        "es-ES": "Creador de Juego",
+        "es-AR": "Armador",
+        "pt-BR": "Maestro",
+        "fr-FR": "Meneur de Jeu"
+      },
+      "descriptions": {
+        "en-GB": "Orchestrates attacking moves with visionary passing and tempo control.",
+        "es-ES": "Orquesta el juego de ataque con visión panorámica y control del tempo.",
+        "es-AR": "Maneja los hilos del equipo con pases quirúrgicos y pausa precisa.",
+        "pt-BR": "Dita o ritmo do jogo com visão de jogo refinada e passes precisos.",
+        "fr-FR": "Oriente le jeu offensif grâce à une vision panoramique et un tempo parfait."
+      }
+    },
+    "target_man": {
+      "id": "target_man",
+      "names": {
+        "en-GB": "Target Man",
+        "es-ES": "Hombre Objetivo",
+        "es-AR": "Pivote Referencia",
+        "pt-BR": "Pivô de Área",
+        "fr-FR": "Point d'Appui"
+      },
+      "descriptions": {
+        "en-GB": "Dominates aerial duels, shields the ball, and brings teammates into play.",
+        "es-ES": "Domina el juego aéreo, protege el balón de espaldas y asocia al equipo.",
+        "es-AR": "Gana de arriba, aguanta la pelota con el cuerpo y descarga de primera.",
+        "pt-BR": "Vence disputas aéreas, protege a bola de costas e escora para os pontas.",
+        "fr-FR": "Maître du jeu aérien, conserve le ballon dos au but et sert ses partenaires."
+      }
+    },
+    "speedster": {
+      "id": "speedster",
+      "names": {
+        "en-GB": "Speedster",
+        "es-ES": "Velocista",
+        "es-AR": "Velocista",
+        "pt-BR": "Velocista",
+        "fr-FR": "Sprinteur"
+      },
+      "descriptions": {
+        "en-GB": "Blistering pace that tears open backlines in transition and counter-attacks.",
+        "es-ES": "Velocidad electrizante que rompe defensas en transiciones y contragolpes.",
+        "es-AR": "Pura explosión en velocidad que liquida a las defensas en velocidad.",
+        "pt-BR": "Arranques velozes que desarmam as linhas adversárias nos contragolpes.",
+        "fr-FR": "Accélération foudroyante qui déchire les lignes défensives en contre."
+      }
+    },
+    "box_to_box": {
+      "id": "box_to_box",
+      "names": {
+        "en-GB": "Box-to-Box",
+        "es-ES": "Todoterreno",
+        "es-AR": "Ida y Vuelta",
+        "pt-BR": "Segundo Volante",
+        "fr-FR": "Box-to-Box"
+      },
+      "descriptions": {
+        "en-GB": "Endless energy patrolling penalty box to penalty box, defending and attacking.",
+        "es-ES": "Energía inagotable patrullando de área a área, recuperando y llegando al gol.",
+        "es-AR": "Despliegue físico feroz de área a área, cortando juego y pisando el área rival.",
+        "pt-BR": "Fôlego incansável ocupando as duas áreas, defendendo e finalizando jogadas.",
+        "fr-FR": "Volume de course inépuisable d'une surface à l'autre, défense et finition."
+      }
+    },
+    "anchor": {
+      "id": "anchor",
+      "names": {
+        "en-GB": "Anchor",
+        "es-ES": "Pivote Ancla",
+        "es-AR": "Volante Tapón",
+        "pt-BR": "Trilho Defensivo",
+        "fr-FR": "Sentinelle"
+      },
+      "descriptions": {
+        "en-GB": "Stationed in front of the defensive line, breaking up opposition attacks.",
+        "es-ES": "Escudo frente a la zaga central, cortando transiciones rivales con solvencia.",
+        "es-AR": "Equilibrio puro por delante de los centrales, barriendo pelotas divididas.",
+        "pt-BR": "Guardião à frente da zaga, desarmando contra-ataques com autoridade.",
+        "fr-FR": "Sentinelle postée devant la défense, coupant net les attaques adverses."
+      }
+    },
+    "sweeper_keeper": {
+      "id": "sweeper_keeper",
+      "names": {
+        "en-GB": "Sweeper Keeper",
+        "es-ES": "Portero Líbero",
+        "es-AR": "Arquero Líbero",
+        "pt-BR": "Goleiro-Líbero",
+        "fr-FR": "Gardien-Libéro"
+      },
+      "descriptions": {
+        "en-GB": "Commands the entire defensive third, rushing off the line to intercept balls.",
+        "es-ES": "Domina el último tercio defensivo, saliendo con autoridad a cortar balones largos.",
+        "es-AR": "Juega adelantado cortando pelotazos y colaborando en la salida con los pies.",
+        "pt-BR": "Atua adiantado, cortando lançamentos longos e participando da saída de bola.",
+        "fr-FR": "Anticipe haut hors de sa surface pour couper les ballons en profondeur."
+      }
+    },
+    "dribbler": {
+      "id": "dribbler",
+      "names": {
+        "en-GB": "Dribbler",
+        "es-ES": "Regateador",
+        "es-AR": "Gambeteador",
+        "pt-BR": "Driblador",
+        "fr-FR": "Dribbleur"
+      },
+      "descriptions": {
+        "en-GB": "Unpredictable 1v1 specialist with sharp turns, agility, and close control.",
+        "es-ES": "Especialista en el uno contra uno, quiebros impredecibles y agilidad pura.",
+        "es-AR": "Especialista en el mano a mano, gambeta corta, amague y desequilibrio individual.",
+        "pt-BR": "Mestre do drible curto, fintas imprevisíveis e controle colado no pé.",
+        "fr-FR": "Magicien du un-contre-un, feintes tranchantes et conduite de balle collée au pied."
+      }
+    },
+    "sniper": {
+      "id": "sniper",
+      "names": {
+        "en-GB": "Sniper",
+        "es-ES": "Francotirador",
+        "es-AR": "Rematador Lejano",
+        "pt-BR": "Chutador de Longe",
+        "fr-FR": "Tireur d'Élite"
+      },
+      "descriptions": {
+        "en-GB": "Specialist in long-distance strikes and testing the goalkeeper from distance.",
+        "es-ES": "Especialista en disparos desde fuera del área y bombas teledirigidas.",
+        "es-AR": "Peligro constante desde media distancia con cañonazos calibrados.",
+        "pt-BR": "Perigo constante em chutes de fora da área com bombas precisas.",
+        "fr-FR": "Danger permanent aux 25 mètres grâce à des frappes lourdes et brossées."
+      }
+    },
+    "destroyer": {
+      "id": "destroyer",
+      "names": {
+        "en-GB": "Destroyer",
+        "es-ES": "Destructor",
+        "es-AR": "Destructor",
+        "pt-BR": "Destruidor",
+        "fr-FR": "Destructeur"
+      },
+      "descriptions": {
+        "en-GB": "Combative battler who physically intimidates opponents and wins hard challenges.",
+        "es-ES": "Batallador incansable que intimida físicamente e impone su ley en cada choque.",
+        "es-AR": "Fiera en la marca que mete pierna fuerte y se hace respetar en el mediocampo.",
+        "pt-BR": "Marcador implacável que impõe respeito físico e ganha todas as divididas.",
+        "fr-FR": "Guerrier défensif qui impose son physique et gagne les duels au couteau."
+      }
+    }
+  },
+  "tactics": {
+    "tiki_taka": {
+      "id": "tiki_taka",
+      "names": {
+        "en-GB": "Tiki-Taka",
+        "es-ES": "Tiki-Taka",
+        "es-AR": "Tiki-Taka",
+        "pt-BR": "Tiki-Taka",
+        "fr-FR": "Tiki-Taka"
+      },
+      "descriptions": {
+        "en-GB": "Short intricate passing, triangles, and high positional possession domination.",
+        "es-ES": "Pase corto paciente, triangulaciones y dominio abrumador de la posesión.",
+        "es-AR": "Asociación milimétrica, toques de primera y control total del ritmo de partido.",
+        "pt-BR": "Troca de passes curtos, triangulações e posse de bola envolvente.",
+        "fr-FR": "Circulation rapide en passes courtes, triangles et possession totale."
+      }
+    },
+    "gegenpressing": {
+      "id": "gegenpressing",
+      "names": {
+        "en-GB": "Gegenpressing",
+        "es-ES": "Gegenpressing",
+        "es-AR": "Presión Tras Pérdida",
+        "pt-BR": "Gegenpressing",
+        "fr-FR": "Contre-Pressing"
+      },
+      "descriptions": {
+        "en-GB": "Furious immediate pressing the split second possession is lost.",
+        "es-ES": "Presión asfixiante inmediata en el mismo segundo en que se pierde el balón.",
+        "es-AR": "Asfixia constante al rival apenas se pierde la pelota para forzar el error.",
+        "pt-BR": "Pressão agressiva imediata no segundo seguinte à perda da posse.",
+        "fr-FR": "Harcelement immédiat à la seconde où le ballon est perdu pour étouffer l'adversaire."
+      }
+    },
+    "counter_attack": {
+      "id": "counter_attack",
+      "names": {
+        "en-GB": "Fast Counter-Attack",
+        "es-ES": "Contragolpe Rápido",
+        "es-AR": "Contragolpe Directo",
+        "pt-BR": "Contra-Ataque Rápido",
+        "fr-FR": "Contre-Attaque Rapide"
+      },
+      "descriptions": {
+        "en-GB": "Soaking up pressure deep then launching lightning-quick vertical strikes.",
+        "es-ES": "Absorber la presión en bloque bajo y golpear verticalmente a toda velocidad.",
+        "es-AR": "Esperar ordenados atrás para salir disparados al espacio con velocidad letal.",
+        "pt-BR": "Absorver a pressão e explodir verticalmente em transições letais.",
+        "fr-FR": "Subir bas pour piquer en flèche à une vitesse foudroyante dans les espaces."
+      }
+    },
+    "park_the_bus": {
+      "id": "park_the_bus",
+      "names": {
+        "en-GB": "Park the Bus",
+        "es-ES": "Bloque Bajo / Autobús",
+        "es-AR": "Colgarse del Travesaño",
+        "pt-BR": "Trancaço / Retranca",
+        "fr-FR": "Béton Armé / Bus"
+      },
+      "descriptions": {
+        "en-GB": "Ultra-compact defensive fortress frustrating opponents with zero space.",
+        "es-ES": "Fortaleza defensiva impenetrable que asfixia cualquier espacio entre líneas.",
+        "es-AR": "Líneas ultra cerradas en el borde del área que no dejan pasar un alfiler.",
+        "pt-BR": "Retranca fechada com duas linhas compactas, anulando qualquer espaço.",
+        "fr-FR": "Mur défensif hermétique qui neutralise le moindre centimètre carré."
+      }
+    },
+    "wing_play": {
+      "id": "wing_play",
+      "names": {
+        "en-GB": "Wing Play",
+        "es-ES": "Juego por Bandas",
+        "es-AR": "Desborde por Bandas",
+        "pt-BR": "Jogo Pelas Pontas",
+        "fr-FR": "Jeu sur les Ailes"
+      },
+      "descriptions": {
+        "en-GB": "Overloading wide flanks and raining crosses into the target area.",
+        "es-ES": "Generar superioridad por los costados para enviar centros constantes al área.",
+        "es-AR": "Desbordes profundos por afuera y centros con rosca para los delanteros.",
+        "pt-BR": "Exploração máxima dos corredores laterais com cruzamentos perigosos.",
+        "fr-FR": "Dédoublements sur les côtés et centres répétés vers le point de penalty."
+      }
+    }
+  },
+  "perks": {
+    "bull": {
+      "en-GB": {
+        "name": "Bull",
+        "shortDescription": "You've got unnatural strength.",
+        "effect": "+1 Strength per year until 99. Stat Breaks Strength when it reaches 99 (-> 100).",
+        "howToObtain": "The first time Strength reaches 80 while under 20: 5% chance to unlock (one roll only).",
+        "storyTitle": "Unnatural Primal Power",
+        "storyNarrative": "Opponents bounce off your shoulders as if running into concrete pillars. You possess an innate, ferocious core strength that defies human limits."
+      },
+      "es-ES": {
+        "name": "Toro",
+        "shortDescription": "Posees una fuerza corporal sobrehumana.",
+        "effect": "+1 Fuerza cada año hasta 99. Rompe el límite de Fuerza al alcanzar 99 (-> 100).",
+        "howToObtain": "La primera vez que Fuerza llega a 80 con menos de 20 años: 5% de probabilidad (una sola tirada).",
+        "storyTitle": "Fuerza Primitiva Sobrenatural",
+        "storyNarrative": "Los rivales rebotan contra tus hombros como si chocaran contra un muro de hormigón. Tienes una potencia innata que desafía los límites."
+      },
+      "es-AR": {
+        "name": "Toro de Potrero",
+        "shortDescription": "Tenés una fuerza física descomunal.",
+        "effect": "+1 Fuerza por año hasta 99. Rompe el tope de Fuerza al llegar a 99 (-> 100).",
+        "howToObtain": "La primera vez que Fuerza alcanza 80 teniendo menos de 20 años: 5% de chance de desbloqueo.",
+        "storyTitle": "Potencia Feroz Indomable",
+        "storyNarrative": "Los defensores rivales rebotan contra tu lomo como si chocaran con una pared. Tenés una potencia física de potrero que impone respeto."
+      },
+      "pt-BR": {
+        "name": "Touro",
+        "shortDescription": "Você tem uma força física descomunal.",
+        "effect": "+1 Força por ano até 99. Quebra o limite de Força aos 99 (-> 100).",
+        "howToObtain": "A primeira vez que Força atinge 80 com menos de 20 anos: 5% de chance.",
+        "storyTitle": "Poder Bruto Primitivo",
+        "storyNarrative": "Os marcadores batem no seu corpo e caem no chão. Você possui uma força física extraordinária que desmonta defesas."
+      },
+      "fr-FR": {
+        "name": "Taureau",
+        "shortDescription": "Vous possédez une puissance physique hors-norme.",
+        "effect": "+1 Force chaque année jusqu'à 99. Dépasse le plafond de Force à 99 (-> 100).",
+        "howToObtain": "La première fois que la Force atteint 80 avant 20 ans : 5% de chances.",
+        "storyTitle": "Puissance Brute Titanesque",
+        "storyNarrative": "Les défenseurs rebondissent sur vos épaules comme sur du béton armé. Vous possédez une force herculéenne impressionnante."
+      }
+    },
+    "three_lungs": {
+      "en-GB": {
+        "name": "Three Lungs",
+        "shortDescription": "You never get tired.",
+        "effect": "+1 Stamina per year until 99. Stat Breaks Stamina at 99 (-> 100).",
+        "howToObtain": "The first time Stamina reaches 80 while under 20: 5% chance to unlock (one roll only).",
+        "storyTitle": "The Infinite Engine",
+        "storyNarrative": "While others gasp for air and collapse in extra time, your pulse remains steady. You possess a seemingly limitless biological endurance engine."
+      },
+      "es-ES": {
+        "name": "Tres Pulmones",
+        "shortDescription": "Jamás conoces el cansancio.",
+        "effect": "+1 Resistencia cada año hasta 99. Rompe el límite de Resistencia al alcanzar 99 (-> 100).",
+        "howToObtain": "La primera vez que Resistencia llega a 80 con menos de 20 años: 5% de probabilidad.",
+        "storyTitle": "El Motor Infinito",
+        "storyNarrative": "Mientras los demás se desploman sin aire en la prórroga, tu ritmo cardíaco se mantiene imperturbable. Tienes un motor cardiovascular sin fin."
+      },
+      "es-AR": {
+        "name": "Tres Pulmones",
+        "shortDescription": "No te cansás nunca.",
+        "effect": "+1 Resistencia por año hasta 99. Rompe el tope de Resistencia al llegar a 99 (-> 100).",
+        "howToObtain": "La primera vez que Resistencia llega a 80 con menos de 20 años: 5% de chance.",
+        "storyTitle": "Pulmón Inagotable",
+        "storyNarrative": "Mientras los rivales piden el cambio con la lengua afuera, vos seguís corriendo con la misma intensidad que en el minuto uno."
+      },
+      "pt-BR": {
+        "name": "Três Pulmões",
+        "shortDescription": "Você simplesmente não cansa.",
+        "effect": "+1 Fôlego por ano até 99. Quebra o limite de Fôlego aos 99 (-> 100).",
+        "howToObtain": "A primeira vez que Fôlego atinge 80 com menos de 20 anos: 5% de chance.",
+        "storyTitle": "O Motor Infinito",
+        "storyNarrative": "Na prorrogação, quando todos estão exaustos, você continua correndo na velocidade máxima com uma resistência admirável."
+      },
+      "fr-FR": {
+        "name": "Trois Poumons",
+        "shortDescription": "La fatigue n'a aucune prise sur vous.",
+        "effect": "+1 Endurance chaque année jusqu'à 99. Dépasse le plafond d'Endurance à 99 (-> 100).",
+        "howToObtain": "La première fois que l'Endurance atteint 80 avant 20 ans : 5% de chances.",
+        "storyTitle": "Moteur Perpétuel",
+        "storyNarrative": "Même au bout de 120 minutes intenses, votre foulée reste fluide et énergique. Un cardio prodigieux défiant les lois de la biologie."
+      }
+    },
+    "speed_merchant": {
+      "en-GB": {
+        "name": "Speed Merchant",
+        "shortDescription": "You're simply faster than everyone else.",
+        "effect": "+1 Pace per year until 99. Stat Breaks Pace at 99 (-> 100).",
+        "howToObtain": "The first time Pace reaches 80 while under 20: 5% chance to unlock (one roll only).",
+        "storyTitle": "Pure Unstoppable Velocity",
+        "storyNarrative": "When you kick the ball past a defender into open space, no human on the pitch can catch you. Your acceleration leaves entire defenses in the dust."
+      },
+      "es-ES": {
+        "name": "Bólido Humano",
+        "shortDescription": "Eres simplemente más rápido que el resto.",
+        "effect": "+1 Ritmo cada año hasta 99. Rompe el límite de Ritmo al alcanzar 99 (-> 100).",
+        "howToObtain": "La primera vez que Ritmo llega a 80 con menos de 20 años: 5% de probabilidad.",
+        "storyTitle": "Velocidad Pura Imparable",
+        "storyNarrative": "Cuando lanzas el balón al espacio libre, ningún ser humano puede darte caza. Tu aceleración deja a defensas enteras clavadas."
+      },
+      "es-AR": {
+        "name": "Cohete Imparable",
+        "shortDescription": "Sos más rápido que cualquier rival.",
+        "effect": "+1 Velocidad por año hasta 99. Rompe el tope de Velocidad al llegar a 99 (-> 100).",
+        "howToObtain": "La primera vez que Velocidad llega a 80 con menos de 20 años: 5% de chance.",
+        "storyTitle": "Aceleración Sobrenatural",
+        "storyNarrative": "Tiras la pelota larga y nadie te alcanza. Tu pique corto y velocidad crucero dejan a los defensores pidiendo la hora."
+      },
+      "pt-BR": {
+        "name": "Foguete Alado",
+        "shortDescription": "Você é mais rápido do que qualquer um em campo.",
+        "effect": "+1 Ritmo por ano até 99. Quebra o limite de Ritmo aos 99 (-> 100).",
+        "howToObtain": "A primeira vez que Ritmo atinge 80 com menos de 20 anos: 5% de chance.",
+        "storyTitle": "Velocidade Incomparável",
+        "storyNarrative": "Quando você coloca na frente, ninguém consegue te acompanhar. Sua arrancada devasta qualquer sistema defensivo."
+      },
+      "fr-FR": {
+        "name": "Fusée Humaine",
+        "shortDescription": "Vous êtes tout simplement intouchable à la course.",
+        "effect": "+1 Vitesse chaque année jusqu'à 99. Dépasse le plafond de Vitesse à 99 (-> 100).",
+        "howToObtain": "La première fois que la Vitesse atteint 80 avant 20 ans : 5% de chances.",
+        "storyTitle": "Accélération Foudroyante",
+        "storyNarrative": "Dès que vous poussez le ballon dans l'espace, aucun défenseur ne peut rivaliser. Une pointe de vitesse qui dévaste les défenses."
+      }
+    },
+    "positional_genius": {
+      "en-GB": {
+        "name": "Positional Genius",
+        "shortDescription": "You always know where to be.",
+        "effect": "+1 Positioning per year until 99. Stat Breaks Positioning at 99 (-> 100).",
+        "howToObtain": "The first time Positioning reaches 80 while under 20: 5% chance to unlock (one roll only).",
+        "storyTitle": "Master of Spatial Dimensions",
+        "storyNarrative": "You don't chase the ball—you move where the ball will be three seconds from now."
+      },
+      "es-ES": {
+        "name": "Genio Posicional",
+        "shortDescription": "Siempre sabes exactamente dónde situarte.",
+        "effect": "+1 Posicionamiento cada año hasta 99. Rompe el límite a 100.",
+        "howToObtain": "La primera vez que Posicionamiento alcanza 80 con menos de 20 años: 5% de probabilidad.",
+        "storyTitle": "Amo del Espacio",
+        "storyNarrative": "No persigues el balón: te mueves a donde el balón va a estar tres segundos después."
+      },
+      "es-AR": {
+        "name": "Sentido de Ubicación",
+        "shortDescription": "Sabés siempre dónde pararte en la cancha.",
+        "effect": "+1 Ubicación Ofensiva por año hasta 99. Rompe el tope a 100.",
+        "howToObtain": "La primera vez que Ubicación Ofensiva llega a 80 con menos de 20 años: 5% de chance.",
+        "storyTitle": "Maestro de los Espacios",
+        "storyNarrative": "No corrés detrás de la pelota: vas adonde va a caer dentro de tres segundos."
+      },
+      "pt-BR": {
+        "name": "Gênio Posicional",
+        "shortDescription": "Você sempre sabe exatamente onde se posicionar.",
+        "effect": "+1 Posicionamento por ano até 99. Quebra o limite aos 99 (-> 100).",
+        "howToObtain": "A primeira vez que Posicionamento atinge 80 com menos de 20 anos: 5% de chance.",
+        "storyTitle": "Mestre dos Espaços",
+        "storyNarrative": "Você não corre atrás da bola: se desloca para onde ela vai chegar."
+      },
+      "fr-FR": {
+        "name": "Génie du Placement",
+        "shortDescription": "Vous savez toujours où vous trouver sur le terrain.",
+        "effect": "+1 Placement chaque année jusqu'à 99. Dépasse le plafond à 99 (-> 100).",
+        "howToObtain": "La première fois que le Placement atteint 80 avant 20 ans : 5% de chances.",
+        "storyTitle": "Maître des Espaces",
+        "storyNarrative": "Vous ne courez pas après le ballon : vous allez là où il arrivera trois secondes plus tard."
+      }
+    },
+    "iron_mind": {
+      "en-GB": {
+        "name": "Iron Mind",
+        "shortDescription": "You're always focused.",
+        "effect": "+1 Composure per year until 99. Stat Breaks Composure at 99 (-> 100).",
+        "howToObtain": "The first time Composure reaches 80 while under 20: 5% chance to unlock (one roll only).",
+        "storyTitle": "Unshakeable Mental Steel",
+        "storyNarrative": "Hostile crowds and fierce high pressing cannot shake your calm. Your mind remains ice-cold."
+      },
+      "es-ES": {
+        "name": "Mente de Hierro",
+        "shortDescription": "Concentración y calma absoluta en todo momento.",
+        "effect": "+1 Compostura cada año hasta 99. Rompe el límite a 100.",
+        "howToObtain": "La primera vez que Compostura alcanza 80 con menos de 20 años: 5% de probabilidad.",
+        "storyTitle": "Acero Mental Inquebrantable",
+        "storyNarrative": "Gradas hostiles y presión asfixiante no pueden quebrar tu serenidad."
+      },
+      "es-AR": {
+        "name": "Mente de Acero",
+        "shortDescription": "Frialdad total bajo presión.",
+        "effect": "+1 Templanza por año hasta 99. Rompe el tope a 100.",
+        "howToObtain": "La primera vez que Templanza llega a 80 con menos de 20 años: 5% de chance.",
+        "storyTitle": "Cabeza Fría Imperturbable",
+        "storyNarrative": "Tribunas enardecidas y patadas rivales no te alteran un pelo."
+      },
+      "pt-BR": {
+        "name": "Mente de Ferro",
+        "shortDescription": "Frieza e foco absoluto sob pressão máxima.",
+        "effect": "+1 Compostura por ano até 99. Quebra o limite aos 99 (-> 100).",
+        "howToObtain": "A primeira vez que Compostura atinge 80 com menos de 20 anos: 5% de chance.",
+        "storyTitle": "Serenidade de Aço",
+        "storyNarrative": "Caldeirões hostis e pressão adversária não abalam sua tranquilidade."
+      },
+      "fr-FR": {
+        "name": "Mental d'Acier",
+        "shortDescription": "Concentration et sang-froid imperturbables.",
+        "effect": "+1 Sang-froid chaque année jusqu'à 99. Dépasse le plafond à 99 (-> 100).",
+        "howToObtain": "La première fois que le Sang-froid atteint 80 avant 20 ans : 5% de chances.",
+        "storyTitle": "Acier Mental Inébranlable",
+        "storyNarrative": "Les ambiances hostiles ne vous perturbent jamais. Votre esprit reste glacé."
+      }
+    },
+    "clinical_striker": {
+      "en-GB": {
+        "name": "Clinical Striker",
+        "shortDescription": "Ruthless efficiency in front of goal.",
+        "effect": "+15% Shooting effectiveness in match simulation.",
+        "howToObtain": "Maintain an elite goal-conversion rate in the penalty area.",
+        "storyTitle": "Assassin in the 18-Yard Box",
+        "storyNarrative": "Give you half a yard of space in the box and the ball is already nestling in the back of the net."
+      },
+      "es-ES": {
+        "name": "Delantero Quirúrgico",
+        "shortDescription": "Eficacia implacable ante la portería.",
+        "effect": "+15% de efectividad en Tiro en la simulación de partidos.",
+        "howToObtain": "Mantén una tasa de conversión goleadora de élite en el área.",
+        "storyTitle": "Asesino del Área Pequeña",
+        "storyNarrative": "Medio metro en el área te basta para mandar el esférico al fondo de la red."
+      },
+      "es-AR": {
+        "name": "Definidor Letal",
+        "shortDescription": "Eficacia asesina frente al arco rival.",
+        "effect": "+15% de efectividad en Definición en los partidos.",
+        "howToObtain": "Mantené un promedio goleador tremendo en el área grande.",
+        "storyTitle": "Peligro de Gol Puro",
+        "storyNarrative": "Pelota que te queda en el área, pelota que termina inflando la red."
+      },
+      "pt-BR": {
+        "name": "Matador Implacável",
+        "shortDescription": "Eficácia cirúrgica diante do gol.",
+        "effect": "+15% de eficácia em Finalização nas partidas.",
+        "howToObtain": "Mantenha taxa de conversão altíssima dentro da área.",
+        "storyTitle": "Faro de Artilheiro",
+        "storyNarrative": "Bola limpa na área é gol certo. Você tem a frieza dos grandes matadores."
+      },
+      "fr-FR": {
+        "name": "Buteur Chirurgical",
+        "shortDescription": "Efficacité absolue face au gardien.",
+        "effect": "+15% d'efficacité en Tir lors des simulations.",
+        "howToObtain": "Maintenir un taux de conversion d'élite dans la surface.",
+        "storyTitle": "Tueur des Surfaces",
+        "storyNarrative": "Un demi-mètre d'espace vous suffit pour trouver la lucarne."
+      }
+    },
+    "iron_body": {
+      "en-GB": {
+        "name": "Iron Body",
+        "shortDescription": "Forged like titanium after playing in every fixture of a full season.",
+        "effect": "Grants permanent -25% injury risk reduction and raises base fitness floor from 50% to 60%.",
+        "howToObtain": "Play in 100% of all official club fixtures across an entire season without missing a game.",
+        "storyTitle": "Forged in Titanium",
+        "storyNarrative": "Your body simply refuses to break down."
+      },
+      "es-ES": {
+        "name": "Cuerpo de Hierro",
+        "shortDescription": "Forjado como titanio tras disputar todos los partidos de una temporada.",
+        "effect": "Reduce permanentemente el riesgo de lesión en un 25% y sube el suelo de forma física del 50% al 60%.",
+        "howToObtain": "Juega el 100% de los partidos oficiales de una temporada completa sin perderte ninguno.",
+        "storyTitle": "Forjado en Titanio",
+        "storyNarrative": "Tu físico resiste cualquier choque y se niega a romperse."
+      },
+      "es-AR": {
+        "name": "Físico de Acero",
+        "shortDescription": "Un tractor incansable forjado tras jugar cada partido del año.",
+        "effect": "-25% permanente al riesgo de lesiones y el piso de estado físico sube del 50% al 60%.",
+        "howToObtain": "Jugá el 100% de los partidos oficiales de una temporada completa.",
+        "storyTitle": "Cuerpo Blindado",
+        "storyNarrative": "Sos de roble puro. No te para ninguna patada."
+      },
+      "pt-BR": {
+        "name": "Corpo de Titânio",
+        "shortDescription": "Resistência lendária após atuar em todas as partidas da temporada.",
+        "effect": "-25% permanente no risco de lesões e eleva a forma mínima de 50% para 60%.",
+        "howToObtain": "Jogue 100% dos jogos oficiais de uma temporada inteira.",
+        "storyTitle": "Forjado no Titânio",
+        "storyNarrative": "Seu corpo simplesmente se recusa a machucar."
+      },
+      "fr-FR": {
+        "name": "Corps d'Acier",
+        "shortDescription": "Forgé dans le titane après avoir disputé chaque match d'une saison entière.",
+        "effect": "-25% de risque de blessure permanent et plancher de forme relevé de 50% à 60%.",
+        "howToObtain": "Disputer 100% des matchs officiels d'une saison sans en manquer un seul.",
+        "storyTitle": "Forgé dans le Titane",
+        "storyNarrative": "Votre corps refuse tout simplement de flancher."
+      }
+    },
+    "outside_foot": {
+      "en-GB": {
+        "name": "Outside Foot",
+        "shortDescription": "Mastered outside foot technique instead of weak foot.",
+        "effect": "Allows using the outside of the foot instead of weak foot with 5★ efficiency (1.0x / 0% penalty).",
+        "howToObtain": "Exclusive to the Iconic \"Trivela\" Street Card (1% draw chance).",
+        "storyTitle": "The Trivela Master",
+        "storyNarrative": "Bending the ball with the outer instep of your dominant foot with deadly accuracy."
+      },
+      "es-ES": {
+        "name": "Tiro de Exterior",
+        "shortDescription": "Dominas la trivela con el exterior del pie en lugar de la pierna mala.",
+        "effect": "Permite usar el exterior del pie hábil con 5★ de efectividad (1.0x / 0% de penalización).",
+        "howToObtain": "Exclusivo de la Carta Icónica \"Trivela\" en Fútbol Callejero.",
+        "storyTitle": "El Maestro de la Trivela",
+        "storyNarrative": "Golpeas el balón con el exterior del pie con un efecto envenenado y precisión milimétrica."
+      },
+      "es-AR": {
+        "name": "Tres Dedos",
+        "shortDescription": "Dominás el chanfle de tres dedos en vez de usar la pierna inhábil.",
+        "effect": "Permite rematar de tres dedos con el pie hábil con 5★ de efectividad (multiplicador 1.0x).",
+        "howToObtain": "Exclusivo de la Carta Icónica Callejera \"Trivela\" (1% de chance).",
+        "storyTitle": "El Mago de los Tres Dedos",
+        "storyNarrative": "Le das con tres dedos con una comba endemoniada que descoloca a cualquier arquero."
+      },
+      "pt-BR": {
+        "name": "Trivela",
+        "shortDescription": "Dominou o chute de três dedos (trivela) no lugar da perna ruim.",
+        "effect": "Finalize e cruze de trivela com 5★ de eficiência (1.0x / 0% de penalidade).",
+        "howToObtain": "Exclusivo da Carta Icônica \"Trivela\" do Futebol de Rua.",
+        "storyTitle": "O Mestre da Trivela",
+        "storyNarrative": "A trivela sai com efeito e precisão cirúrgica de qualquer ângulo."
+      },
+      "fr-FR": {
+        "name": "Extérieur du pied",
+        "shortDescription": "Maîtrise la trivela de l'extérieur du pied au lieu du mauvais pied.",
+        "effect": "Permet de frapper de l'extérieur du pied avec 5★ d'efficacité (1.0x / 0% de pénalité).",
+        "howToObtain": "Exclusif à la Carte Iconique \"Trivela\" du Football de Rue.",
+        "storyTitle": "Le Maître de l'Extérieur",
+        "storyNarrative": "Une frappe brossée de l'extérieur qui surprend gardiens et défenseurs."
+      }
+    },
+    "mercenary": {
+      "en-GB": {
+        "name": "Mercenary",
+        "shortDescription": "Sacrificed European spotlight for generational wealth.",
+        "effect": "-80% to fame gains, +20% to bonuses and contract renewal fees.",
+        "howToObtain": "Accept a mega-deal from the Saudi Pro League.",
+        "storyTitle": "Bags of Cash & Zero Illusions",
+        "storyNarrative": "Generational wealth is forever. You accepted the colossal financial bag."
+      },
+      "es-ES": {
+        "name": "Mercenario",
+        "shortDescription": "Renunciaste al foco europeo a cambio de una fortuna generacional.",
+        "effect": "-80% de fama, +20% a primas y sueldos en negociaciones.",
+        "howToObtain": "Acepta la megaoferta de la Liga Saudí.",
+        "storyTitle": "Fortuna Asegurada",
+        "storyNarrative": "Aseguraste el futuro de varias generaciones aceptando un contrato astronómico."
+      },
+      "es-AR": {
+        "name": "Mercenario del Gol",
+        "shortDescription": "Cambiaste la gloria europea por plata dulce para diez generaciones.",
+        "effect": "-80% a la fama, +20% a bonos y contratos en tu favor.",
+        "howToObtain": "Aceptá el mega contrato de la liga árabe.",
+        "storyTitle": "El Gran Cheque",
+        "storyNarrative": "Billetera mata galán. Aseguraste a tu familia por generaciones enteras."
+      },
+      "pt-BR": {
+        "name": "Mercenário",
+        "shortDescription": "Trocou os holofotes europeus por riqueza multigeracional.",
+        "effect": "-80% de fama, +20% em luvas e bônus contratuais.",
+        "howToObtain": "Aceite a megaproposta da Liga Saudita.",
+        "storyTitle": "Cofres Cheios",
+        "storyNarrative": "A riqueza é eterna. Você garantiu a independência financeira da sua família."
+      },
+      "fr-FR": {
+        "name": "Mercenaire",
+        "shortDescription": "Sacrifié la lumière européenne pour une fortune générationnelle.",
+        "effect": "-80% de gains de gloire, +20% sur les primes et émoluments.",
+        "howToObtain": "Accepter le méga-contrat de la Saudi Pro League.",
+        "storyTitle": "L'Or en Barre",
+        "storyNarrative": "Mettre sa descendance à l'abri du besoin grâce à un contrat mirobolant."
+      }
+    },
+    "snake": {
+      "en-GB": {
+        "name": "Judas",
+        "shortDescription": "Betrayed your former club by transferring directly to their arch-rival.",
+        "effect": "Former club considers you a traitor. Bad Reputation gained is doubled (×2). Barred from returning.",
+        "howToObtain": "Transfer directly to a fierce rival as an established starter.",
+        "storyTitle": "The Forbidden Crossing",
+        "storyNarrative": "Crossing directly to the bitter enemy made you the ultimate villain."
+      },
+      "es-ES": {
+        "name": "Judas",
+        "shortDescription": "Traicionaste a tu club al fichar directamente por su máximo rival.",
+        "effect": "Tu antiguo club te considera un traidor. Duplica la Reputación Negativa (x2). Prohibido volver.",
+        "howToObtain": "Ficha directamente por el eterno rival siendo titular indiscutible.",
+        "storyTitle": "La Traición Prohibida",
+        "storyNarrative": "Al cruzar de acera te convertiste en el villano número uno para la afición."
+      },
+      "es-AR": {
+        "name": "Traidor Judas",
+        "shortDescription": "Traicionaste a tu club cruzando de vereda hacia el clásico rival.",
+        "effect": "Tu ex club te declara persona no grata. Se duplica la mala reputación (x2). Prohibido volver.",
+        "howToObtain": "Pasá directo al archirrival siendo figura del equipo.",
+        "storyTitle": "Cruzada de Vereda Prohibida",
+        "storyNarrative": "Ponértela camiseta del clásico rival te convirtió en el enemigo público número uno."
+      },
+      "pt-BR": {
+        "name": "Judas",
+        "shortDescription": "Traiu seu clube ao se transferir diretamente para o maior rival.",
+        "effect": "Antigo clube o considera traidor. Dobra a Reputação Negativa (x2). Banido do retorno.",
+        "howToObtain": "Transfira-se diretamente para o arquirrival sendo titular.",
+        "storyTitle": "A Travessia Proibida",
+        "storyNarrative": "Assinar com o inimigo mortal o transformou no maior vilão para a torcida."
+      },
+      "fr-FR": {
+        "name": "Judas",
+        "shortDescription": "A trahi son club formateur en signant chez le pire ennemi.",
+        "effect": "L'ancien club vous déteste. Mauvaise Réputation doublée (x2). Retour interdit.",
+        "howToObtain": "Rejoindre le rival historique en étant titulaire établi.",
+        "storyTitle": "La Trahison Interdite",
+        "storyNarrative": "Passer chez l'ennemi juré a scellé votre réputation de renégat."
+      }
+    },
+    "extended_pre_season": {
+      "en-GB": {
+        "name": "Extended Pre-Season",
+        "shortDescription": "Arrives early for Pre-Season to maximize training growth.",
+        "effect": "Grants +5 points in all 3 stats of the selected training group (+15 total).",
+        "howToObtain": "Report early to pre-season camp.",
+        "storyTitle": "First in, Last Out",
+        "storyNarrative": "While teammates are on holiday, you put in relentless double sessions."
+      },
+      "es-ES": {
+        "name": "Pretemporada Extra",
+        "shortDescription": "Llegas antes a la pretemporada para maximizar tu progresión.",
+        "effect": "+5 puntos en las 3 estadísticas del grupo de entrenamiento elegido (+15 total).",
+        "howToObtain": "Preséntate antes de tiempo a la concentración de pretemporada.",
+        "storyTitle": "El Primero en Llegar",
+        "storyNarrative": "Mientras los demás descansan en la playa, tú encadenas dobles sesiones en el gimnasio."
+      },
+      "es-AR": {
+        "name": "Pretemporada Intensa",
+        "shortDescription": "Llegás antes que todos para matarte entrenando.",
+        "effect": "+5 puntos en las 3 estadísticas del grupo elegido (+15 en total).",
+        "howToObtain": "Presentate antes de fecha en la pretemporada.",
+        "storyTitle": "Madrugador Incansable",
+        "storyNarrative": "Dobles turnos y pasadas mientras los demás todavía están de vacaciones."
+      },
+      "pt-BR": {
+        "name": "Pré-Temporada Estendida",
+        "shortDescription": "Chega mais cedo para maximizar o desenvolvimento no treino.",
+        "effect": "+5 pontos nos 3 atributos do grupo de treino selecionado (+15 total).",
+        "howToObtain": "Apresente-se antecipadamente aos treinos.",
+        "storyTitle": "Primeiro a Chegar",
+        "storyNarrative": "Treinos em dois turnos para começar o ano voando fisicamente."
+      },
+      "fr-FR": {
+        "name": "Pré-Saison Rallongée",
+        "shortDescription": "Arrive en avance à la reprise pour maximiser les gains physiques.",
+        "effect": "+5 points sur les 3 attributs du groupe d'entraînement choisi (+15 au total).",
+        "howToObtain": "Se présenter en avance au stage de pré-saison.",
+        "storyTitle": "Premier Arrivé",
+        "storyNarrative": "Des séances biquotidiennes intensives pendant que vos partenaires sont en vacances."
+      }
+    },
+    "relaxing_vacations": {
+      "en-GB": {
+        "name": "Relaxing Vacations",
+        "shortDescription": "Rest well during vacations with permanent 10% lower injury chance.",
+        "effect": "-10 Stamina for first 2 months, but permanent -10% injury chance.",
+        "howToObtain": "Choose dedicated rest during the Pre-Season Crossroads event.",
+        "storyTitle": "Recharged & Invigorated",
+        "storyNarrative": "Taking time to disconnect leaves your muscular structure resilient."
+      },
+      "es-ES": {
+        "name": "Vacaciones Reparadoras",
+        "shortDescription": "Descanso total en vacaciones con un 10% menos de riesgo de lesión permanente.",
+        "effect": "-10 Resistencia durante los dos primeros meses, pero -10% riesgo de lesión permanente.",
+        "howToObtain": "Elige descanso total en la encrucijada de pretemporada.",
+        "storyTitle": "Recargado y Fresco",
+        "storyNarrative": "Desconectar por completo fortalece tu musculatura contra sobrecargas."
+      },
+      "es-AR": {
+        "name": "Vacaciones de Relax",
+        "shortDescription": "Descanso a fondo que te blinda contra lesiones (-10% permanente).",
+        "effect": "-10 Resistencia los primeros dos meses, pero -10% de lesiones para siempre.",
+        "howToObtain": "Elegí descansar en el evento de pretemporada.",
+        "storyTitle": "Pilas Recargadas",
+        "storyNarrative": "Desconectar la cabeza y aflojar el cuerpo te protege de contracturas."
+      },
+      "pt-BR": {
+        "name": "Férias Relaxantes",
+        "shortDescription": "Descanso merecido com 10% a menos de chance de lesão permanente.",
+        "effect": "-10 Fôlego nos primeiros dois meses, mas -10% de risco de lesão permanente.",
+        "howToObtain": "Escolha descanso absoluto na pré-temporada.",
+        "storyTitle": "Baterias Recarregadas",
+        "storyNarrative": "Desconectar do futebol renova as fibras musculares para o ano todo."
+      },
+      "fr-FR": {
+        "name": "Vacances Régénératrices",
+        "shortDescription": "Repos complet réduisant définitivement le risque de blessure de 10%.",
+        "effect": "-10 Endurance les 2 premiers mois, mais -10% de blessure permanent.",
+        "howToObtain": "Choisir le repos absolu pendant la croisée des chemins de pré-saison.",
+        "storyTitle": "Batteries Rechargées",
+        "storyNarrative": "Déconnecter totalement permet à vos muscles de récupérer en profondeur."
+      }
+    }
+  },
+  "cities": {
+    "paris": {
+      "en-GB": {
+        "cityName": "Paris",
+        "countryName": "France",
+        "fullName": "Paris, France",
+        "description": "Elite academies, technical development, and a pathway surrounded by world-class talent.",
+        "landmark": "Clairefontaine & Parisian Banlieues",
+        "statModifierLabel": "+1 Stamina"
+      },
+      "es-ES": {
+        "cityName": "París",
+        "countryName": "Francia",
+        "fullName": "París, Francia",
+        "description": "Academias de élite, desarrollo técnico integral y un camino forjado entre talento de talla mundial.",
+        "landmark": "Clairefontaine y los suburbios parisinos",
+        "statModifierLabel": "+1 Resistencia"
+      },
+      "es-AR": {
+        "cityName": "París",
+        "countryName": "Francia",
+        "fullName": "París, Francia",
+        "description": "Canteras de élite mundial, formación técnica estricta y competencia feroz entre futuros cracks.",
+        "landmark": "Clairefontaine y los suburbios parisinos",
+        "statModifierLabel": "+1 Resistencia"
+      },
+      "pt-BR": {
+        "cityName": "Paris",
+        "countryName": "França",
+        "fullName": "Paris, França",
+        "description": "Academias de ponta, refinamento técnico e uma jornada cercada de talentos de classe mundial.",
+        "landmark": "Clairefontaine e Subúrbios Parisienses",
+        "statModifierLabel": "+1 Fôlego"
+      },
+      "fr-FR": {
+        "cityName": "Paris",
+        "countryName": "France",
+        "fullName": "Paris, France",
+        "description": "Académies d'élite, formation technique d'excellence et vivier inépuisable de champions du monde.",
+        "landmark": "Clairefontaine et Banlieues Parisiennes",
+        "statModifierLabel": "+1 Endurance"
+      }
+    },
+    "buenos_aires": {
+      "en-GB": {
+        "cityName": "Buenos Aires",
+        "countryName": "Argentina",
+        "fullName": "Buenos Aires, Argentina",
+        "description": "Passion, creativity, and a tradition of producing technical players with strong mentality.",
+        "landmark": "La Bombonera & Potrero Grounds",
+        "statModifierLabel": "+1 Composure"
+      },
+      "es-ES": {
+        "cityName": "Buenos Aires",
+        "countryName": "Argentina",
+        "fullName": "Buenos Aires, Argentina",
+        "description": "Pasión desbordante, picardía y una escuela inagotable de jugadores con técnica y garra competitiva.",
+        "landmark": "La Bombonera y Potreros Barriales",
+        "statModifierLabel": "+1 Compostura"
+      },
+      "es-AR": {
+        "cityName": "Buenos Aires",
+        "countryName": "Argentina",
+        "fullName": "Buenos Aires, Argentina",
+        "description": "Pasión pura de potrero, gambeta endiablada y una tradición mística forjando pibes con temple de acero.",
+        "landmark": "La Bombonera y Potreros Barriales",
+        "statModifierLabel": "+1 Templanza"
+      },
+      "pt-BR": {
+        "cityName": "Buenos Aires",
+        "countryName": "Argentina",
+        "fullName": "Buenos Aires, Argentina",
+        "description": "Paixão fervente, criatividade de potrero e tradição lendária formando atletas de garra e frieza.",
+        "landmark": "La Bombonera e Campos de Potrero",
+        "statModifierLabel": "+1 Compostura"
+      },
+      "fr-FR": {
+        "cityName": "Buenos Aires",
+        "countryName": "Argentine",
+        "fullName": "Buenos Aires, Argentine",
+        "description": "Ferveur populaire, grinta légendaire et culture du potrero forgeant des génies au mental d'acier.",
+        "landmark": "La Bombonera et Terrains de Potrero",
+        "statModifierLabel": "+1 Sang-froid"
+      }
+    },
+    "sao_paulo": {
+      "en-GB": {
+        "cityName": "São Paulo",
+        "countryName": "Brazil",
+        "fullName": "São Paulo, Brazil",
+        "description": "Street football, creativity, and attacking talent shaped by generations of players.",
+        "landmark": "Várzea Pitches & Futsal Courts",
+        "statModifierLabel": "+1 Dribbling"
+      },
+      "es-ES": {
+        "cityName": "São Paulo",
+        "countryName": "Brasil",
+        "fullName": "São Paulo, Brasil",
+        "description": "Fútbol callejero, desborde mágico y talento ofensivo moldeado por generaciones de pura \"ginga\".",
+        "landmark": "Canchas de Várzea y Pistas de Futsal",
+        "statModifierLabel": "+1 Regate"
+      },
+      "es-AR": {
+        "cityName": "São Paulo",
+        "countryName": "Brasil",
+        "fullName": "São Paulo, Brasil",
+        "description": "Fútbol de favela, potrero brasileño y gambeta irreverente forjada sobre cemento y tierra colorada.",
+        "landmark": "Canchas de Várzea y Pistas de Futsal",
+        "statModifierLabel": "+1 Gambeta"
+      },
+      "pt-BR": {
+        "cityName": "São Paulo",
+        "countryName": "Brasil",
+        "fullName": "São Paulo, Brasil",
+        "description": "Futebol de rua, drible desconcertante e vocação ofensiva moldados pela ginga brasileira de várzea.",
+        "landmark": "Campos de Várzea e Quadras de Futsal",
+        "statModifierLabel": "+1 Drible"
+      },
+      "fr-FR": {
+        "cityName": "São Paulo",
+        "countryName": "Brésil",
+        "fullName": "São Paulo, Brésil",
+        "description": "Football de rue, créativité magique et pur génie offensif inspiré par des générations de virtuosité.",
+        "landmark": "Terrains de Várzea et Pistes de Futsal",
+        "statModifierLabel": "+1 Dribble"
+      }
+    },
+    "london": {
+      "en-GB": {
+        "cityName": "London",
+        "countryName": "England",
+        "fullName": "London, England",
+        "description": "Historic football culture, intense competition, and one of the deepest talent networks.",
+        "landmark": "Wembley & South London Cage Arenas",
+        "statModifierLabel": "+1 Pace"
+      },
+      "es-ES": {
+        "cityName": "Londres",
+        "countryName": "Inglaterra",
+        "fullName": "Londres, Inglaterra",
+        "description": "Cultura histórica, intensidad británica implacable y una de las redes de canteras más ricas del planeta.",
+        "landmark": "Wembley y las jaulas del sur de Londres",
+        "statModifierLabel": "+1 Ritmo"
+      },
+      "es-AR": {
+        "cityName": "Londres",
+        "countryName": "Inglaterra",
+        "fullName": "Londres, Inglaterra",
+        "description": "Cuna del fútbol, roce físico constante y jaulas callejeras donde se forjan velocistas imparables.",
+        "landmark": "Wembley y las jaulas del sur de Londres",
+        "statModifierLabel": "+1 Velocidad"
+      },
+      "pt-BR": {
+        "cityName": "Londres",
+        "countryName": "Inglaterra",
+        "fullName": "Londres, Inglaterra",
+        "description": "Cultura centenária, intensidade física e gaiolas de rua que lapidam craques velozes e competitivos.",
+        "landmark": "Wembley e Gaiolas do Sul de Londres",
+        "statModifierLabel": "+1 Ritmo"
+      },
+      "fr-FR": {
+        "cityName": "Londres",
+        "countryName": "Angleterre",
+        "fullName": "Londres, Angleterre",
+        "description": "Berceau du jeu, intensité physique sans répit et cages urbaines forgeant des ailiers explosifs.",
+        "landmark": "Wembley et Cages du Sud de Londres",
+        "statModifierLabel": "+1 Vitesse"
+      }
+    },
+    "madrid": {
+      "en-GB": {
+        "cityName": "Madrid",
+        "countryName": "Spain",
+        "fullName": "Madrid, Spain",
+        "description": "Technical football, tactical education, and development of complete players.",
+        "landmark": "Valdebebas & Castilian Academies",
+        "statModifierLabel": "+1 Short Pass"
+      },
+      "es-ES": {
+        "cityName": "Madrid",
+        "countryName": "España",
+        "fullName": "Madrid, España",
+        "description": "Fútbol asociativo exquisito, educación táctica de primer nivel y forja de futbolistas completos.",
+        "landmark": "Valdebebas y academias castellanas",
+        "statModifierLabel": "+1 Pase Corto"
+      },
+      "es-AR": {
+        "cityName": "Madrid",
+        "countryName": "España",
+        "fullName": "Madrid, España",
+        "description": "Fútbol de toque, lectura táctica superior y formación integral de ganadores natos.",
+        "landmark": "Valdebebas y academias castellanas",
+        "statModifierLabel": "+1 Pase Corto"
+      },
+      "pt-BR": {
+        "cityName": "Madri",
+        "countryName": "Espanha",
+        "fullName": "Madri, Espanha",
+        "description": "Futebol técnico associativo, refinamento tático de alto padrão e formação de atletas completos.",
+        "landmark": "Valdebebas e Academias Castelhanas",
+        "statModifierLabel": "+1 Passe Curto"
+      },
+      "fr-FR": {
+        "cityName": "Madrid",
+        "countryName": "Espagne",
+        "fullName": "Madrid, Espagne",
+        "description": "Football de possession raffiné, éducation tactique supérieure et formation de joueurs complets.",
+        "landmark": "Valdebebas et Académies Castillanes",
+        "statModifierLabel": "+1 Passes courtes"
+      }
+    },
+    "roma": {
+      "en-GB": {
+        "cityName": "Roma",
+        "countryName": "Italy",
+        "fullName": "Roma, Italy",
+        "description": "Tactical discipline, defensive mastery, and the timeless football heritage of the Eternal City.",
+        "landmark": "Colosseo & Stadio Olimpico",
+        "statModifierLabel": "+1 Tackling"
+      },
+      "es-ES": {
+        "cityName": "Roma",
+        "countryName": "Italia",
+        "fullName": "Roma, Italia",
+        "description": "Disciplina táctica de hierro, maestría defensiva y la herencia milenaria del \"calcio\" en la Ciudad Eterna.",
+        "landmark": "Coliseo y Estadio Olímpico",
+        "statModifierLabel": "+1 Entradas"
+      },
+      "es-AR": {
+        "cityName": "Roma",
+        "countryName": "Italia",
+        "fullName": "Roma, Italia",
+        "description": "Rigor táctico absoluto, marca asfixiante y la mística inquebrantable de la Ciudad Eterna.",
+        "landmark": "Coliseo y Estadio Olímpico",
+        "statModifierLabel": "+1 Quites"
+      },
+      "pt-BR": {
+        "cityName": "Roma",
+        "countryName": "Itália",
+        "fullName": "Roma, Itália",
+        "description": "Disciplina tática ferrenha, maestria defensiva e a tradição milenar do futebol na Cidade Eterna.",
+        "landmark": "Coliseu e Stadio Olimpico",
+        "statModifierLabel": "+1 Desarmes"
+      },
+      "fr-FR": {
+        "cityName": "Rome",
+        "countryName": "Italie",
+        "fullName": "Rome, Italie",
+        "description": "Rigueur tactique sans faille, science du placement défensif et héritage mythique de la Ville Éternelle.",
+        "landmark": "Colisée et Stadio Olimpico",
+        "statModifierLabel": "+1 Tacles debout"
+      }
+    },
+    "berlin": {
+      "en-GB": {
+        "cityName": "Berlin",
+        "countryName": "Germany",
+        "fullName": "Berlin, Germany",
+        "description": "Precision engineering, high-intensity pressing, and grassroots urban street football hubs.",
+        "landmark": "Brandenburg Gate & Olympiastadion",
+        "statModifierLabel": "+1 Interception"
+      },
+      "es-ES": {
+        "cityName": "Berlín",
+        "countryName": "Alemania",
+        "fullName": "Berlín, Alemania",
+        "description": "Ingeniería de precisión, presión de máxima intensidad y bulliciosos focos de fútbol callejero urbano.",
+        "landmark": "Puerta de Brandeburgo y Olympiastadion",
+        "statModifierLabel": "+1 Intercepciones"
+      },
+      "es-AR": {
+        "cityName": "Berlín",
+        "countryName": "Alemania",
+        "fullName": "Berlín, Alemania",
+        "description": "Precisión metódica, presión asfixiante y canchas de asfalto donde nacen futbolistas implacables.",
+        "landmark": "Puerta de Brandeburgo y Olympiastadion",
+        "statModifierLabel": "+1 Intercepciones"
+      },
+      "pt-BR": {
+        "cityName": "Berlim",
+        "countryName": "Alemanha",
+        "fullName": "Berlim, Alemanha",
+        "description": "Engenharia de precisão, pressão pós-perda intensa e berço do moderno futebol de rua urbano.",
+        "landmark": "Portão de Brandemburgo e Olympiastadion",
+        "statModifierLabel": "+1 Interceptações"
+      },
+      "fr-FR": {
+        "cityName": "Berlin",
+        "countryName": "Allemagne",
+        "fullName": "Berlin, Allemagne",
+        "description": "Rigueur athlétique absolue, pressing tout terrain à haute intensité et viviers urbains berlinois.",
+        "landmark": "Porte de Brandebourg et Olympiastadion",
+        "statModifierLabel": "+1 Interceptions"
+      }
+    },
+    "lisboa": {
+      "en-GB": {
+        "cityName": "Lisboa",
+        "countryName": "Portugal",
+        "fullName": "Lisboa, Portugal",
+        "description": "Renowned winger academies, flair dribbling, and coastal technical street development.",
+        "landmark": "Torre de Belém & Alcântara Courts",
+        "statModifierLabel": "+1 Crossing"
+      },
+      "es-ES": {
+        "cityName": "Lisboa",
+        "countryName": "Portugal",
+        "fullName": "Lisboa, Portugal",
+        "description": "Fábrica legendaria de extremos desequilibrantes, regate con desparpajo y técnica costera refinada.",
+        "landmark": "Torre de Belém y pistas de Alcântara",
+        "statModifierLabel": "+1 Centros"
+      },
+      "es-AR": {
+        "cityName": "Lisboa",
+        "countryName": "Portugal",
+        "fullName": "Lisboa, Portugal",
+        "description": "Cuna de extremos encaradores, amagues eléctricos y técnica refinada junto al Atlántico.",
+        "landmark": "Torre de Belém y pistas de Alcântara",
+        "statModifierLabel": "+1 Centros"
+      },
+      "pt-BR": {
+        "cityName": "Lisboa",
+        "countryName": "Portugal",
+        "fullName": "Lisboa, Portugal",
+        "description": "Fábrica renomada de pontas dribladores, finta atrevida e formação técnica de classe mundial.",
+        "landmark": "Torre de Belém e Quadras de Alcântara",
+        "statModifierLabel": "+1 Cruzamentos"
+      },
+      "fr-FR": {
+        "cityName": "Lisbonne",
+        "countryName": "Portugal",
+        "fullName": "Lisbonne, Portugal",
+        "description": "Fabrique d'ailiers virtuoses, feintes percutantes et formation côtière d'orfèvre technique.",
+        "landmark": "Tour de Belém et Terrains d'Alcântara",
+        "statModifierLabel": "+1 Centres"
+      }
+    },
+    "riyadh": {
+      "en-GB": {
+        "cityName": "Riyadh",
+        "countryName": "Saudi Arabia",
+        "fullName": "Riyadh, Saudi Arabia",
+        "description": "Rapidly rising football powerhouse, state-of-the-art facilities, and passionate fanbases.",
+        "landmark": "Kingdom Centre & King Fahd Stadium",
+        "statModifierLabel": "+1 Ball Control"
+      },
+      "es-ES": {
+        "cityName": "Riad",
+        "countryName": "Arabia Saudí",
+        "fullName": "Riad, Arabia Saudí",
+        "description": "Potencia emergente en ascenso vertiginoso, complejos deportivos futuristas y aficiones entregadas.",
+        "landmark": "Kingdom Centre y Estadio Rey Fahd",
+        "statModifierLabel": "+1 Control de Balón"
+      },
+      "es-AR": {
+        "cityName": "Riad",
+        "countryName": "Arabia Saudita",
+        "fullName": "Riad, Arabia Saudita",
+        "description": "Fútbol en auge astronómico, instalaciones de última generación y tribunas volcadas con pasión.",
+        "landmark": "Kingdom Centre y Estadio Rey Fahd",
+        "statModifierLabel": "+1 Control de Balón"
+      },
+      "pt-BR": {
+        "cityName": "Riade",
+        "countryName": "Arábia Saudita",
+        "fullName": "Riade, Arábia Saudita",
+        "description": "Nova potência em ascensão meteórica, complexos de ponta e torcidas apaixonadas pelas arquibancadas.",
+        "landmark": "Kingdom Centre e King Fahd Stadium",
+        "statModifierLabel": "+1 Domínio de Bola"
+      },
+      "fr-FR": {
+        "cityName": "Riyad",
+        "countryName": "Arabie Saoudite",
+        "fullName": "Riyad, Arabie Saoudite",
+        "description": "Nouvelle puissance footballistique en plein essor, infrastructures futuristes et ferveur intense.",
+        "landmark": "Kingdom Centre et Stade Roi Fahd",
+        "statModifierLabel": "+1 Contrôle du ballon"
+      }
+    }
+  }
+}

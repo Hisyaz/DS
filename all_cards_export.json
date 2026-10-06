@@ -1,0 +1,1787 @@
+[
+  {
+    "id": "default-parent-ex_pro_player-bronze",
+    "name": "Ex-Pro Player (BRONZE)",
+    "category": "parents",
+    "tier": "bronze",
+    "description": "One of your parents played professional football and now represents your career with insider experience."
+  },
+  {
+    "id": "default-parent-ex_pro_player-silver",
+    "name": "Ex-Pro Player (SILVER)",
+    "category": "parents",
+    "tier": "silver",
+    "description": "One of your parents played professional football and now represents your career with insider experience."
+  },
+  {
+    "id": "default-parent-ex_pro_player-gold",
+    "name": "Ex-Pro Player (GOLD)",
+    "category": "parents",
+    "tier": "gold",
+    "description": "One of your parents played professional football and now represents your career with insider experience."
+  },
+  {
+    "id": "default-parent-ex_pro_player-legendary",
+    "name": "Ex-Pro Player (LEGENDARY)",
+    "category": "parents",
+    "tier": "legendary",
+    "description": "One of your parents played professional football and now represents your career with insider experience."
+  },
+  {
+    "id": "default-parent-average_family-bronze",
+    "name": "Average Family (BRONZE)",
+    "category": "parents",
+    "tier": "bronze",
+    "description": "Raised in a supportive, loving household that always believed in you and kept you grounded."
+  },
+  {
+    "id": "default-parent-average_family-silver",
+    "name": "Average Family (SILVER)",
+    "category": "parents",
+    "tier": "silver",
+    "description": "Raised in a supportive, loving household that always believed in you and kept you grounded."
+  },
+  {
+    "id": "default-parent-average_family-gold",
+    "name": "Average Family (GOLD)",
+    "category": "parents",
+    "tier": "gold",
+    "description": "Raised in a supportive, loving household that always believed in you and kept you grounded."
+  },
+  {
+    "id": "default-parent-average_family-legendary",
+    "name": "Average Family (LEGENDARY)",
+    "category": "parents",
+    "tier": "legendary",
+    "description": "Raised in a supportive, loving household that always believed in you and kept you grounded."
+  },
+  {
+    "id": "default-parent-helicopter_parents-bronze",
+    "name": "Helicopter Parents (BRONZE)",
+    "category": "parents",
+    "tier": "bronze",
+    "description": "Your parents controlled every aspect of your football upbringing and represent you with fierce loyalty."
+  },
+  {
+    "id": "default-parent-helicopter_parents-silver",
+    "name": "Helicopter Parents (SILVER)",
+    "category": "parents",
+    "tier": "silver",
+    "description": "Your parents controlled every aspect of your football upbringing and represent you with fierce loyalty."
+  },
+  {
+    "id": "default-parent-helicopter_parents-gold",
+    "name": "Helicopter Parents (GOLD)",
+    "category": "parents",
+    "tier": "gold",
+    "description": "Your parents controlled every aspect of your football upbringing and represent you with fierce loyalty."
+  },
+  {
+    "id": "default-parent-helicopter_parents-legendary",
+    "name": "Helicopter Parents (LEGENDARY)",
+    "category": "parents",
+    "tier": "legendary",
+    "description": "Your parents controlled every aspect of your football upbringing and represent you with fierce loyalty."
+  },
+  {
+    "id": "default-parent-immigrant_family-bronze",
+    "name": "Immigrant Family (BRONZE)",
+    "category": "parents",
+    "tier": "bronze",
+    "description": "Your family moved in search of a better future. Growing up as an outsider made adapting second nature."
+  },
+  {
+    "id": "default-parent-immigrant_family-silver",
+    "name": "Immigrant Family (SILVER)",
+    "category": "parents",
+    "tier": "silver",
+    "description": "Your family moved in search of a better future. Growing up as an outsider made adapting second nature."
+  },
+  {
+    "id": "default-parent-immigrant_family-gold",
+    "name": "Immigrant Family (GOLD)",
+    "category": "parents",
+    "tier": "gold",
+    "description": "Your family moved in search of a better future. Growing up as an outsider made adapting second nature."
+  },
+  {
+    "id": "default-parent-immigrant_family-legendary",
+    "name": "Immigrant Family (LEGENDARY)",
+    "category": "parents",
+    "tier": "legendary",
+    "description": "Your family moved in search of a better future. Growing up as an outsider made adapting second nature."
+  },
+  {
+    "id": "default-parent-raised_in_ghetto-bronze",
+    "name": "Raised in the Ghetto (BRONZE)",
+    "category": "parents",
+    "tier": "bronze",
+    "description": "Football was your escape from a difficult childhood (orphan/single parent), forging unmatched resilience."
+  },
+  {
+    "id": "default-parent-raised_in_ghetto-silver",
+    "name": "Raised in the Ghetto (SILVER)",
+    "category": "parents",
+    "tier": "silver",
+    "description": "Football was your escape from a difficult childhood (orphan/single parent), forging unmatched resilience."
+  },
+  {
+    "id": "default-parent-raised_in_ghetto-gold",
+    "name": "Raised in the Ghetto (GOLD)",
+    "category": "parents",
+    "tier": "gold",
+    "description": "Football was your escape from a difficult childhood (orphan/single parent), forging unmatched resilience."
+  },
+  {
+    "id": "default-parent-raised_in_ghetto-legendary",
+    "name": "Raised in the Ghetto (LEGENDARY)",
+    "category": "parents",
+    "tier": "legendary",
+    "description": "Football was your escape from a difficult childhood (orphan/single parent), forging unmatched resilience."
+  },
+  {
+    "id": "default-parent-rich_parents-bronze",
+    "name": "Rich Parents (BRONZE)",
+    "category": "parents",
+    "tier": "bronze",
+    "description": "Your family gave you access to elite academies, facilities, and significant initial wealth."
+  },
+  {
+    "id": "default-parent-rich_parents-silver",
+    "name": "Rich Parents (SILVER)",
+    "category": "parents",
+    "tier": "silver",
+    "description": "Your family gave you access to elite academies, facilities, and significant initial wealth."
+  },
+  {
+    "id": "default-parent-rich_parents-gold",
+    "name": "Rich Parents (GOLD)",
+    "category": "parents",
+    "tier": "gold",
+    "description": "Your family gave you access to elite academies, facilities, and significant initial wealth."
+  },
+  {
+    "id": "default-parent-rich_parents-legendary",
+    "name": "Rich Parents (LEGENDARY)",
+    "category": "parents",
+    "tier": "legendary",
+    "description": "Your family gave you access to elite academies, facilities, and significant initial wealth."
+  },
+  {
+    "id": "default-parent-iconic_parent-iconic",
+    "name": "Iconic Parent (⭐ ICONIC)",
+    "category": "parents",
+    "tier": "iconic",
+    "description": "An exceptionally rare football upbringing inspired by football’s greatest legends. Your parent sacrificed everything for your dream, instilling elite mentality, discipline, and constant emotional support."
+  },
+  {
+    "id": "card-street-street_footballer",
+    "name": "Street Footballer",
+    "category": "street",
+    "tier": "gold",
+    "description": "You learned football outside traditional academies. Creativity, improvisation, and instinct became your first teachers."
+  },
+  {
+    "id": "card-street-found_money",
+    "name": "Found Money",
+    "category": "street",
+    "tier": "gold",
+    "description": "After a street match, you found money someone had dropped."
+  },
+  {
+    "id": "card-street-wall_practice",
+    "name": "Wall Practice",
+    "category": "street",
+    "tier": "gold",
+    "description": "Hours practicing against walls improved your first touch and passing."
+  },
+  {
+    "id": "card-street-endless_matches",
+    "name": "Endless Matches",
+    "category": "street",
+    "tier": "gold",
+    "description": "Street games lasted for hours, teaching you to keep playing when others were tired."
+  },
+  {
+    "id": "card-street-recorded_skill",
+    "name": "Recorded Skill",
+    "category": "street",
+    "tier": "gold",
+    "description": "Someone recorded your best move and people started noticing your talent."
+  },
+  {
+    "id": "card-street-local_tournament",
+    "name": "Local Tournament",
+    "category": "street",
+    "tier": "gold",
+    "description": "You dominated a neighborhood tournament against local players."
+  },
+  {
+    "id": "card-street-student_of_game",
+    "name": "Student of the Game",
+    "category": "street",
+    "tier": "gold",
+    "description": "You studied professional players and copied their movements."
+  },
+  {
+    "id": "card-street-old_boots",
+    "name": "Old Boots",
+    "category": "street",
+    "tier": "gold",
+    "description": "Playing with poor equipment forced you to improve your technique."
+  },
+  {
+    "id": "card-street-both_feet",
+    "name": "Both Feet",
+    "category": "street",
+    "tier": "gold",
+    "description": "Playing anywhere forced you to use whichever foot was available."
+  },
+  {
+    "id": "card-street-street_captain",
+    "name": "Street Captain",
+    "category": "street",
+    "tier": "gold",
+    "description": "Your teammates naturally followed your decisions, earning you neighborhood respect and street fame."
+  },
+  {
+    "id": "card-street-lost_your_temper",
+    "name": "Lost Your Temper",
+    "category": "street",
+    "tier": "rust",
+    "description": "A confrontation during a match affected your reputation."
+  },
+  {
+    "id": "card-street-bad_landing",
+    "name": "Bad Landing",
+    "category": "street",
+    "tier": "rust",
+    "description": "A street match ended with an awkward injury."
+  },
+  {
+    "id": "card-street-skipped_training",
+    "name": "Skipped Training",
+    "category": "street",
+    "tier": "rust",
+    "description": "You spent too much time playing and not enough improving."
+  },
+  {
+    "id": "card-street-no_structure",
+    "name": "No Structure",
+    "category": "street",
+    "tier": "rust",
+    "description": "Without organized coaching, some fundamentals developed slower."
+  },
+  {
+    "id": "card-street-overshadowed",
+    "name": "Overshadowed",
+    "category": "street",
+    "tier": "rust",
+    "description": "Another player received the attention you wanted."
+  },
+  {
+    "id": "card-street-bad_habits",
+    "name": "Bad Habits",
+    "category": "street",
+    "tier": "rust",
+    "description": "You developed habits that affected your preparation."
+  },
+  {
+    "id": "card-street-street_trouble",
+    "name": "Street Trouble",
+    "category": "street",
+    "tier": "rust",
+    "description": "A fight outside football affected your image."
+  },
+  {
+    "id": "card-street-bad_fields",
+    "name": "Bad Fields",
+    "category": "street",
+    "tier": "rust",
+    "description": "Poor playing conditions limited your technical growth."
+  },
+  {
+    "id": "card-street-divided_focus",
+    "name": "Divided Focus",
+    "category": "street",
+    "tier": "rust",
+    "description": "You had less time to dedicate fully to football."
+  },
+  {
+    "id": "card-street-playing_injured",
+    "name": "Playing Injured",
+    "category": "street",
+    "tier": "rust",
+    "description": "You ignored pain and kept playing."
+  },
+  {
+    "id": "card-street-street_warrior",
+    "name": "Street Warrior",
+    "category": "street",
+    "tier": "copper_dagger",
+    "description": "You survived every challenge by becoming physically stronger."
+  },
+  {
+    "id": "card-street-street_magician",
+    "name": "Street Magician",
+    "category": "street",
+    "tier": "copper_dagger",
+    "description": "You became impossible to predict but ignored simple football."
+  },
+  {
+    "id": "card-street-speed_demon",
+    "name": "Speed Demon",
+    "category": "street",
+    "tier": "copper_dagger",
+    "description": "You focused everything on explosive acceleration."
+  },
+  {
+    "id": "card-street-shoot_first",
+    "name": "Shoot First",
+    "category": "street",
+    "tier": "copper_dagger",
+    "description": "You always searched for the decisive shot."
+  },
+  {
+    "id": "card-street-street_defender",
+    "name": "Street Defender",
+    "category": "street",
+    "tier": "copper_dagger",
+    "description": "You learned that stopping opponents mattered more than creating highlights."
+  },
+  {
+    "id": "card-street-street_scout",
+    "name": "Street Scout",
+    "category": "street",
+    "tier": "iconic",
+    "description": "A professional scout discovered you while watching a street match. Your talent was impossible to ignore."
+  },
+  {
+    "id": "card-street-trivela",
+    "name": "Trivela",
+    "category": "street",
+    "tier": "iconic",
+    "description": "You learned you don't need your weak foot at all, you mastered your outside foot technique."
+  },
+  {
+    "id": "card-street-temp-positive-1",
+    "name": "Cage Tour Domination",
+    "category": "street",
+    "tier": "legendary",
+    "description": "An unstoppable 6-month run across urban street tournaments gives you god-tier swagger on the ball."
+  },
+  {
+    "id": "card-street-temp-negative-1",
+    "name": "Asphalt Bruised Knee & Ankles",
+    "category": "street",
+    "tier": "ash",
+    "description": "Hard pavement impacts take their toll, leaving severe joint inflammation for the next 6 months."
+  },
+  {
+    "id": "card-street-temp-double-1",
+    "name": "Underground Cage King",
+    "category": "street",
+    "tier": "muramasa_blade",
+    "description": "You become an undisputed street legend for 1 year, trading off-pitch discipline and locker room peace for insane raw flair."
+  },
+  {
+    "id": "card-youth-yc-pos-overflow-chem",
+    "name": "Overflow Chemistry Surge",
+    "category": "youth",
+    "tier": "gold",
+    "description": "An electrifying surge of squad bonding and locker room cohesion pushes team synergy beyond normal limits into Overflow Chemistry (+1 stat bonus to all attributes per 1% overflow)!"
+  },
+  {
+    "id": "card-youth-yc-pos-01",
+    "name": "Academy Finisher",
+    "category": "youth",
+    "tier": "gold",
+    "description": "Your training sessions begin to focus heavily on finishing and movement inside the box."
+  },
+  {
+    "id": "card-youth-yc-pos-02",
+    "name": "Speed Merchant",
+    "category": "youth",
+    "tier": "gold",
+    "description": "Speed drills and sprint technique coaching sharpen your acceleration on the wing."
+  },
+  {
+    "id": "card-youth-yc-pos-03",
+    "name": "Midfield Maestro",
+    "category": "youth",
+    "tier": "gold",
+    "description": "Hours spent on passing grids improve your vision and ball distribution."
+  },
+  {
+    "id": "card-youth-yc-pos-04",
+    "name": "Rock at the Back",
+    "category": "youth",
+    "tier": "gold",
+    "description": "Physical battles against older youth forwards forge a formidable defensive monster."
+  },
+  {
+    "id": "card-youth-yc-pos-05",
+    "name": "Aerial Dominator",
+    "category": "youth",
+    "tier": "gold",
+    "description": "Mastering jump timing and header direction makes you dangerous on set pieces."
+  },
+  {
+    "id": "card-youth-yc-pos-06",
+    "name": "Dribbling Wizard",
+    "category": "youth",
+    "tier": "gold",
+    "description": "Tight-space cone drills grant exceptional footwork to glide past defenders."
+  },
+  {
+    "id": "card-youth-yc-pos-07",
+    "name": "Cross Specialist",
+    "category": "youth",
+    "tier": "gold",
+    "description": "Whipped deliveries into the penalty box become your signature weapon."
+  },
+  {
+    "id": "card-youth-yc-pos-08",
+    "name": "Long Shot Screamer",
+    "category": "youth",
+    "tier": "gold",
+    "description": "Developing leg power allows you to threaten goal from well outside the penalty arc."
+  },
+  {
+    "id": "card-youth-yc-pos-09",
+    "name": "Tactical Mastermind",
+    "category": "youth",
+    "tier": "gold",
+    "description": "Studying video footage helps you anticipate opponent movements before they happen."
+  },
+  {
+    "id": "card-youth-yc-pos-10",
+    "name": "Iron Lung",
+    "category": "youth",
+    "tier": "gold",
+    "description": "Relentless endurance conditioning enables you to press high for all 90 minutes."
+  },
+  {
+    "id": "card-youth-yc-pos-11",
+    "name": "Pressing Monster",
+    "category": "youth",
+    "tier": "gold",
+    "description": "Reading opponent passing lanes lets you snap up loose balls effortlessly."
+  },
+  {
+    "id": "card-youth-yc-pos-12",
+    "name": "Ice in the Veins",
+    "category": "youth",
+    "tier": "gold",
+    "description": "Staying calm under heavy pressure prevents mistakes in high-stakes situations."
+  },
+  {
+    "id": "card-youth-yc-pos-13",
+    "name": "Ball Retention Specialist",
+    "category": "youth",
+    "tier": "gold",
+    "description": "Using body shielding ensures opponents cannot strip the ball from you easily."
+  },
+  {
+    "id": "card-youth-yc-pos-14",
+    "name": "Lightning Reflexes",
+    "category": "youth",
+    "tier": "gold",
+    "description": "Split-second instinctive reactions allow quick responses to deflections and loose balls."
+  },
+  {
+    "id": "card-youth-yc-pos-15",
+    "name": "Playmaker Genius",
+    "category": "youth",
+    "tier": "gold",
+    "description": "Unlocking defense-splitting long passes transforms your team’s transitions."
+  },
+  {
+    "id": "card-youth-yc-pos-16",
+    "name": "Training Hard",
+    "category": "youth",
+    "tier": "gold",
+    "description": "Relentless extra hours on the training ground grant you versatile development stat points to allocate freely."
+  },
+  {
+    "id": "card-youth-yc-neg-01",
+    "name": "Training Injury",
+    "category": "youth",
+    "tier": "rust",
+    "description": "A training injury keeps you from developing normally."
+  },
+  {
+    "id": "card-youth-yc-neg-02",
+    "name": "Broke Boots",
+    "category": "youth",
+    "tier": "rust",
+    "description": "Your equipment is falling apart and replacing it costs more than expected."
+  },
+  {
+    "id": "card-youth-yc-neg-03",
+    "name": "Locker Room Conflict",
+    "category": "youth",
+    "tier": "rust",
+    "description": "An argument with teammates damages the atmosphere around you."
+  },
+  {
+    "id": "card-youth-yc-neg-04",
+    "name": "Media Distraction",
+    "category": "youth",
+    "tier": "rust",
+    "description": "Unwanted early media noise disrupts your focus and hurts your composure."
+  },
+  {
+    "id": "card-youth-yc-neg-05",
+    "name": "Bad Reputation Spike",
+    "category": "youth",
+    "tier": "rust",
+    "description": "On-pitch arguments lead to booking warnings and a rising bad reputation."
+  },
+  {
+    "id": "card-youth-yc-neg-06",
+    "name": "Growth Stagnation",
+    "category": "youth",
+    "tier": "rust",
+    "description": "A slump in form leads to tactical doubts and loss of confidence."
+  },
+  {
+    "id": "card-youth-yc-neg-07",
+    "name": "Overtired & Sluggish",
+    "category": "youth",
+    "tier": "rust",
+    "description": "Back-to-back fixture congestion drains your physical speed and energy."
+  },
+  {
+    "id": "card-youth-yc-neg-08",
+    "name": "Tactical Confusion",
+    "category": "youth",
+    "tier": "rust",
+    "description": "Changing tactical instructions leaves you uncertain about your movement."
+  },
+  {
+    "id": "card-youth-yc-neg-09",
+    "name": "Ankle Sprain",
+    "category": "youth",
+    "tier": "rust",
+    "description": "A sharp twist in training hampers your mobility and dribbling confidence."
+  },
+  {
+    "id": "card-youth-yc-neg-10",
+    "name": "Manager Doghouse",
+    "category": "youth",
+    "tier": "rust",
+    "description": "Disagreeing with the youth coach drops your standing in the team."
+  },
+  {
+    "id": "card-youth-yc-de-01",
+    "name": "Obsessed with Training",
+    "category": "youth",
+    "tier": "copper_dagger",
+    "description": "You train harder than everyone else, but your body struggles to recover."
+  },
+  {
+    "id": "card-youth-yc-de-02",
+    "name": "Shooting Addict",
+    "category": "youth",
+    "tier": "copper_dagger",
+    "description": "You stay after every session practicing your finishing, but your passing development suffers."
+  },
+  {
+    "id": "card-youth-yc-de-03",
+    "name": "Physical Development",
+    "category": "youth",
+    "tier": "copper_dagger",
+    "description": "You dedicate yourself to becoming physically dominant."
+  },
+  {
+    "id": "card-youth-yc-de-04",
+    "name": "All-Out Attack",
+    "category": "youth",
+    "tier": "copper_dagger",
+    "description": "You throw yourself completely into offensive runs at the cost of your defensive work."
+  },
+  {
+    "id": "card-youth-yc-de-05",
+    "name": "Defensive Obsession",
+    "category": "youth",
+    "tier": "copper_dagger",
+    "description": "You focus entirely on shutting down opponents, neglecting your goalscoring development."
+  },
+  {
+    "id": "card-youth-yc-ls-01",
+    "name": "Teammate’s Family",
+    "category": "youth",
+    "tier": "gold",
+    "description": "You become close with one of your teammates and spend more time together outside training."
+  },
+  {
+    "id": "card-youth-yc-ls-02",
+    "name": "Locker Room Favorite",
+    "category": "youth",
+    "tier": "gold",
+    "description": "Your personality makes you popular with the squad."
+  },
+  {
+    "id": "card-youth-yc-ls-03",
+    "name": "Weekend Job",
+    "category": "youth",
+    "tier": "gold",
+    "description": "You start earning a little money outside football, but it takes some time away from recovery."
+  },
+  {
+    "id": "card-youth-yc-ls-04",
+    "name": "Manager’s Favorite",
+    "category": "youth",
+    "tier": "gold",
+    "description": "The manager begins to trust you and takes a personal interest in your development."
+  },
+  {
+    "id": "card-youth-yc-ls-05",
+    "name": "Local Youth Star",
+    "category": "youth",
+    "tier": "gold",
+    "description": "Local news outlets run features on your progress, boosting your reputation."
+  },
+  {
+    "id": "card-youth-yc-ls-06",
+    "name": "Mentor Relationship",
+    "category": "youth",
+    "tier": "gold",
+    "description": "A senior team veteran takes you under their wing and shares priceless wisdom."
+  },
+  {
+    "id": "card-youth-yc-ls-07",
+    "name": "Agent Guidance",
+    "category": "youth",
+    "tier": "gold",
+    "description": "An experienced agent offers career management and connects you to club scouts."
+  },
+  {
+    "id": "card-youth-yc-ls-08",
+    "name": "Boot Sponsor Deal",
+    "category": "youth",
+    "tier": "gold",
+    "description": "A local sports brand sponsors your footwear in exchange for social media promo."
+  },
+  {
+    "id": "card-youth-yc-ls-09",
+    "name": "Viral Youth Highlight",
+    "category": "youth",
+    "tier": "gold",
+    "description": "A clip of your solo goal goes viral on TikTok and Instagram."
+  },
+  {
+    "id": "card-youth-yc-ls-10",
+    "name": "Veteran Representative",
+    "category": "youth",
+    "tier": "gold",
+    "description": "A veteran youth representative signs you onto their boutique agency."
+  },
+  {
+    "id": "card-youth-yc-ico-01",
+    "name": "⭐ ICONIC — ELITE SCOUT",
+    "category": "youth",
+    "tier": "iconic",
+    "description": "A top-level football agent/scout has been watching your development and believes you are one of the most exciting young talents in the competition. He represents elite prospects and decides to personally take you under his wing."
+  },
+  {
+    "id": "card-youth-yc-ico-02",
+    "name": "⭐ ICONIC — THE MASTER’S CHOICE",
+    "category": "youth",
+    "tier": "iconic",
+    "description": "One of the most respected managers in football has personally noticed your potential. He doesn’t normally recruit unknown youth players, but something about your game convinces him to make an exception."
+  },
+  {
+    "id": "card-youth-yc-ico-03",
+    "name": "⭐ ICONIC — STEP ON THE BALL",
+    "category": "youth",
+    "tier": "iconic",
+    "description": "The legendary mastery of \"La Pisadita\" (Step on the ball). Freezing defenders with your sole and body shielding grants an unstoppable retention edge (+30% in duels, +1 yearly, stat break to 100 at 99)."
+  },
+  {
+    "id": "card-youth-temp-positive-1",
+    "name": "Academy Surge Blitz",
+    "category": "youth",
+    "tier": "gold",
+    "description": "Intense 6-month specialized physical and tactical drills provide rapid developmental stat acceleration."
+  },
+  {
+    "id": "card-youth-temp-negative-1",
+    "name": "Youth Growth Plate Spurt Fatigue",
+    "category": "youth",
+    "tier": "rust",
+    "description": "Sudden 3-inch biological growth spurt creates temporary clumsiness and severe coordination lag for 6 months."
+  },
+  {
+    "id": "card-youth-temp-double-1",
+    "name": "All-In Academy Prodigy Protocol",
+    "category": "youth",
+    "tier": "steel_blade",
+    "description": "1 full year of nonstop triple-session training. Massive pace and finishing gains at the cost of burnout and physical strain."
+  },
+  {
+    "id": "card-career-1",
+    "name": "Overflow Chemistry Surge (Bronze)",
+    "category": "career",
+    "tier": "bronze",
+    "description": "A focused team-bonding dinner elevates locker room trust beyond normal capacity, triggering Overflow Chemistry (+1 stat bonus to all attributes per 1% overflow)."
+  },
+  {
+    "id": "card-career-2",
+    "name": "Overflow Chemistry Surge (Silver)",
+    "category": "career",
+    "tier": "silver",
+    "description": "An intensive tactical retreat and cohesive squad understanding produces an electric synergy surge, pushing team chemistry well past 100%."
+  },
+  {
+    "id": "card-career-3",
+    "name": "Overflow Chemistry Surge (Gold)",
+    "category": "career",
+    "tier": "gold",
+    "description": "Unshakeable team spirit and shared tactical intuition unlock immense locker room cohesion, granting a massive overflow chemistry boost across the squad."
+  },
+  {
+    "id": "card-career-4",
+    "name": "Overflow Chemistry Surge (Legendary)",
+    "category": "career",
+    "tier": "legendary",
+    "description": "Historic squad brotherhood and absolute tactical telepathy achieve the pinnacle of team synergy, unlocking maximum 200% Overflow Chemistry (+100 stat points distributed)!"
+  },
+  {
+    "id": "card-career-5",
+    "name": "Extra Finishing Session",
+    "category": "career",
+    "tier": "bronze",
+    "description": "Extra time spent in front of goal honing accuracy, technique, and calm under pressure."
+  },
+  {
+    "id": "card-career-6",
+    "name": "Passing Reps",
+    "category": "career",
+    "tier": "bronze",
+    "description": "Repetitive short passing drills building rhythm, vision, and first touch confidence."
+  },
+  {
+    "id": "card-career-7",
+    "name": "Defensive Drills",
+    "category": "career",
+    "tier": "bronze",
+    "description": "Focused defensive footwork and positioning exercises to sharpen tackling and marking."
+  },
+  {
+    "id": "card-career-8",
+    "name": "First Touch Work",
+    "category": "career",
+    "tier": "bronze",
+    "description": "Dedicated ball-reception sessions improving control out of the air and tight-space retention."
+  },
+  {
+    "id": "card-career-9",
+    "name": "Crossing Practice",
+    "category": "career",
+    "tier": "bronze",
+    "description": "Delivery practice from wide areas aiming for whipped crosses and accurate long passes."
+  },
+  {
+    "id": "card-career-10",
+    "name": "Reaction Training",
+    "category": "career",
+    "tier": "bronze",
+    "description": "High-tempo agility and mental sharpness exercises for split-second pitch decision making."
+  },
+  {
+    "id": "card-career-11",
+    "name": "Positioning Lesson",
+    "category": "career",
+    "tier": "bronze",
+    "description": "Tactical film review sessions understanding space, off-the-ball movement, and passing lanes."
+  },
+  {
+    "id": "card-career-12",
+    "name": "Strength Session",
+    "category": "career",
+    "tier": "bronze",
+    "description": "Gym conditioning focused on core power, stability, and enduring physical durability."
+  },
+  {
+    "id": "card-career-13",
+    "name": "Specialist Finisher",
+    "category": "career",
+    "tier": "silver",
+    "description": "Advanced clinical finishing masterclass inside the penalty box under match condition simulation."
+  },
+  {
+    "id": "card-career-14",
+    "name": "Pressing School",
+    "category": "career",
+    "tier": "silver",
+    "description": "Intense Gegenpressing drills teaching high-energy traps, quick anticipation, and spatial awareness."
+  },
+  {
+    "id": "card-career-15",
+    "name": "Creative Passing Session",
+    "category": "career",
+    "tier": "silver",
+    "description": "Playmaking masterclass focusing on through balls, diagonal switches, and key chance creation."
+  },
+  {
+    "id": "card-career-16",
+    "name": "Defensive Masterclass",
+    "category": "career",
+    "tier": "silver",
+    "description": "Elite defensive coaching on tight man-marking, cutting passing lanes, and backline coordination."
+  },
+  {
+    "id": "card-career-17",
+    "name": "Sloppy Training",
+    "category": "career",
+    "tier": "scrap",
+    "description": "Lack of focus during training drills led to unforced errors and poor touch."
+  },
+  {
+    "id": "card-career-18",
+    "name": "Finishing Slump",
+    "category": "career",
+    "tier": "scrap",
+    "description": "A temporary dip in goalscoring confidence leading to rushed shots in key moments."
+  },
+  {
+    "id": "card-career-19",
+    "name": "Defensive Mistakes",
+    "category": "career",
+    "tier": "scrap",
+    "description": "Misjudged positioning and loose marking during defensive practice scenarios."
+  },
+  {
+    "id": "card-career-20",
+    "name": "Heavy Legs",
+    "category": "career",
+    "tier": "scrap",
+    "description": "Overworked muscles and slow recovery result in sluggish sprint speed and endurance."
+  },
+  {
+    "id": "card-career-21",
+    "name": "Poor First Touch",
+    "category": "career",
+    "tier": "scrap",
+    "description": "Heavy touch issues during technical drills cause the ball to bounce away unexpectedly."
+  },
+  {
+    "id": "card-career-22",
+    "name": "Lost Concentration",
+    "category": "career",
+    "tier": "scrap",
+    "description": "Mental distractions on the pitch lead to delayed reactions and spatial disorientation."
+  },
+  {
+    "id": "card-career-23",
+    "name": "Tactical Confusion",
+    "category": "career",
+    "tier": "scrap",
+    "description": "Struggled to absorb complex managerial instructions during tactical walkthroughs."
+  },
+  {
+    "id": "card-career-24",
+    "name": "Bad Crossing Session",
+    "category": "career",
+    "tier": "scrap",
+    "description": "Inconsistent delivery from wide positions with multiple overhit crosses and long passes."
+  },
+  {
+    "id": "card-career-25",
+    "name": "Training Plateau",
+    "category": "career",
+    "tier": "rust",
+    "description": "Development stagnates temporarily during routine training drills."
+  },
+  {
+    "id": "card-career-26",
+    "name": "Tactical Misfit",
+    "category": "career",
+    "tier": "rust",
+    "description": "Struggling to fit into the manager's tactical system and formation."
+  },
+  {
+    "id": "card-career-27",
+    "name": "Competition for Places",
+    "category": "career",
+    "tier": "rust",
+    "description": "In-form squad rival challenges your starting position in the lineup."
+  },
+  {
+    "id": "card-career-28",
+    "name": "Poor Tactical Adaptation",
+    "category": "career",
+    "tier": "rust",
+    "description": "Difficulty adjusting to new managerial pressing schemes and defensive triggers."
+  },
+  {
+    "id": "card-career-29",
+    "name": "Extra Session",
+    "category": "career",
+    "tier": "obsidian_knife",
+    "description": "Pushed through an intense extra shooting workout after team practice."
+  },
+  {
+    "id": "card-career-30",
+    "name": "Defensive Focus",
+    "category": "career",
+    "tier": "obsidian_knife",
+    "description": "Sacrificed attack flair drills to concentrate entirely on defensive tackling mechanics."
+  },
+  {
+    "id": "card-career-31",
+    "name": "Speed Work",
+    "category": "career",
+    "tier": "obsidian_knife",
+    "description": "Focused heavily on sprint acceleration, leaning down at the expense of raw physical strength."
+  },
+  {
+    "id": "card-career-32",
+    "name": "Creative Freedom",
+    "category": "career",
+    "tier": "obsidian_knife",
+    "description": "Embraced high-risk dribbling and flair, occasionally wandering out of assigned tactical structure."
+  },
+  {
+    "id": "card-career-33",
+    "name": "Safe Passing",
+    "category": "career",
+    "tier": "obsidian_knife",
+    "description": "Prioritized ball retention and short risk-free passes over daring long-distance balls."
+  },
+  {
+    "id": "card-career-34",
+    "name": "Aggressive Press",
+    "category": "career",
+    "tier": "obsidian_knife",
+    "description": "Relentless closing down on opposition ball carriers, draining energy reserves."
+  },
+  {
+    "id": "card-career-35",
+    "name": "Aerial Specialist",
+    "category": "career",
+    "tier": "obsidian_knife",
+    "description": "Bulk training for aerial duels and headers, slightly compromising top sprint speed."
+  },
+  {
+    "id": "card-career-36",
+    "name": "Long-Shot Specialist",
+    "category": "career",
+    "tier": "obsidian_knife",
+    "description": "Practiced long-range power strikes from distance, neglecting short pass combinations."
+  },
+  {
+    "id": "card-career-37",
+    "name": "Attack-Minded Fullback",
+    "category": "career",
+    "tier": "copper_dagger",
+    "description": "Overlapping aggressively down the flank, leaving open spaces behind in defense."
+  },
+  {
+    "id": "card-career-38",
+    "name": "Deep-Lying Playmaker",
+    "category": "career",
+    "tier": "copper_dagger",
+    "description": "Dictating tempo from deep with supreme passing range, trading off dynamic pace and dribbling."
+  },
+  {
+    "id": "card-career-39",
+    "name": "Pressing Machine",
+    "category": "career",
+    "tier": "copper_dagger",
+    "description": "Engineered high-intensity pressing engine that strains composure and physical conditioning."
+  },
+  {
+    "id": "card-career-40",
+    "name": "New Ways to Play",
+    "category": "career",
+    "tier": "iconic",
+    "description": "You dreamed about new ways to play. An ultra-rare flash of inspiration breaking through human boundaries to unlock the historic 100 Stat Break rating."
+  },
+  {
+    "id": "card-career-41",
+    "name": "Football Idol",
+    "category": "career",
+    "tier": "iconic",
+    "description": "You were inspired by your football idol. Channeling the supernatural mastery of legends who redefined football history to reach the historic 100 Stat Break rating."
+  },
+  {
+    "id": "card-career-42",
+    "name": "Training Discovery",
+    "category": "career",
+    "tier": "iconic",
+    "description": "You discovered something during training. An unprecedented realization in body mechanics and precision that elevates your craft beyond perfection to 100 rating."
+  },
+  {
+    "id": "card-career-temp-positive-1",
+    "name": "Purple Patch Scoring Spree",
+    "category": "career",
+    "tier": "legendary",
+    "description": "You enter a transcendent 6-month goalscoring zone where everything you touch hits the back of the net."
+  },
+  {
+    "id": "card-career-temp-negative-1",
+    "name": "Tactical Freefall & Crisis",
+    "category": "career",
+    "tier": "ash",
+    "description": "Managerial crisis and tactical changes leave you isolated and out of form for 6 tough months."
+  },
+  {
+    "id": "card-career-temp-double-1",
+    "name": "Contract Year Glory Hunt",
+    "category": "career",
+    "tier": "muramasa_blade",
+    "description": "Playing for a monster new contract. You hog the ball and shoot from everywhere for a full season."
+  },
+  {
+    "id": "card-life-0",
+    "name": "Smart Investment",
+    "category": "life",
+    "tier": "bronze",
+    "description": "You receive advice from someone who understands money and make a small investment."
+  },
+  {
+    "id": "card-life-1",
+    "name": "Family Support",
+    "category": "life",
+    "tier": "bronze",
+    "description": "Your family helps you during an important period of your career."
+  },
+  {
+    "id": "card-life-2",
+    "name": "Private Trainer",
+    "category": "life",
+    "tier": "silver",
+    "description": "You hire a specialist trainer to work on your physical condition."
+  },
+  {
+    "id": "card-life-3",
+    "name": "Recovery Retreat",
+    "category": "life",
+    "tier": "silver",
+    "description": "You spend several days recovering away from football."
+  },
+  {
+    "id": "card-life-4",
+    "name": "Nutrition Plan",
+    "category": "life",
+    "tier": "bronze",
+    "description": "A professional nutritionist creates a personalized diet."
+  },
+  {
+    "id": "card-life-5",
+    "name": "Local Hero",
+    "category": "life",
+    "tier": "silver",
+    "description": "Your actions in your hometown receive positive attention."
+  },
+  {
+    "id": "card-life-6",
+    "name": "Viral Moment",
+    "category": "life",
+    "tier": "silver",
+    "description": "A harmless moment involving you goes viral for all the right reasons."
+  },
+  {
+    "id": "card-life-7",
+    "name": "Charity Match",
+    "category": "life",
+    "tier": "silver",
+    "description": "You participate in a charity event."
+  },
+  {
+    "id": "card-life-8",
+    "name": "Mentor",
+    "category": "life",
+    "tier": "gold",
+    "description": "A former professional player takes an interest in your development."
+  },
+  {
+    "id": "card-life-9",
+    "name": "New Apartment",
+    "category": "life",
+    "tier": "bronze",
+    "description": "You move into a better living environment."
+  },
+  {
+    "id": "card-life-10",
+    "name": "Financial Discipline",
+    "category": "life",
+    "tier": "silver",
+    "description": "You decide to stop wasting money and start managing your finances properly."
+  },
+  {
+    "id": "card-life-11",
+    "name": "Perfect Routine",
+    "category": "life",
+    "tier": "silver",
+    "description": "You establish a disciplined daily routine."
+  },
+  {
+    "id": "card-life-12",
+    "name": "Childhood Friend Returns",
+    "category": "life",
+    "tier": "bronze",
+    "description": "Someone important from your childhood reconnects with you."
+  },
+  {
+    "id": "card-life-13",
+    "name": "Media Training",
+    "category": "life",
+    "tier": "silver",
+    "description": "You receive professional media training."
+  },
+  {
+    "id": "card-life-14",
+    "name": "First Luxury Purchase",
+    "category": "life",
+    "tier": "bronze",
+    "description": "You finally buy something you have dreamed about since childhood."
+  },
+  {
+    "id": "card-life-15",
+    "name": "Personal Chef",
+    "category": "life",
+    "tier": "silver",
+    "description": "You hire someone to handle your meals."
+  },
+  {
+    "id": "card-life-16",
+    "name": "Quiet Weekend",
+    "category": "life",
+    "tier": "bronze",
+    "description": "You turn down the nightlife and stay home."
+  },
+  {
+    "id": "card-life-17",
+    "name": "Community Project",
+    "category": "life",
+    "tier": "gold",
+    "description": "You invest time and money into your local community."
+  },
+  {
+    "id": "card-life-18",
+    "name": "Financial Advisor",
+    "category": "life",
+    "tier": "silver",
+    "description": "You hire a professional financial advisor."
+  },
+  {
+    "id": "card-life-19",
+    "name": "Recovery Technology",
+    "category": "life",
+    "tier": "gold",
+    "description": "You purchase advanced recovery equipment."
+  },
+  {
+    "id": "card-life-20",
+    "name": "Healthy Relationship",
+    "category": "life",
+    "tier": "silver",
+    "description": "A stable relationship gives you greater emotional stability."
+  },
+  {
+    "id": "card-life-21",
+    "name": "Personal Brand",
+    "category": "life",
+    "tier": "gold",
+    "description": "You begin carefully building your own public identity."
+  },
+  {
+    "id": "card-life-22",
+    "name": "Study the Game",
+    "category": "life",
+    "tier": "silver",
+    "description": "You spend your free time studying football instead of partying."
+  },
+  {
+    "id": "card-life-23",
+    "name": "Generous Gesture",
+    "category": "life",
+    "tier": "gold",
+    "description": "You quietly help someone in need without seeking publicity."
+  },
+  {
+    "id": "card-life-24",
+    "name": "Big Break Lifestyle",
+    "category": "life",
+    "tier": "legendary",
+    "description": "Your growing success allows you to improve several areas of your life simultaneously."
+  },
+  {
+    "id": "card-life-25",
+    "name": "Expensive Night Out",
+    "category": "life",
+    "tier": "scrap",
+    "description": "You spend far more than you intended during a night out."
+  },
+  {
+    "id": "card-life-26",
+    "name": "Bad Purchase",
+    "category": "life",
+    "tier": "scrap",
+    "description": "You buy an expensive item that turns out to be almost worthless."
+  },
+  {
+    "id": "card-life-27",
+    "name": "Party Photos",
+    "category": "life",
+    "tier": "rust",
+    "description": "Photos from a private party appear online."
+  },
+  {
+    "id": "card-life-28",
+    "name": "Wrong Crowd",
+    "category": "life",
+    "tier": "rust",
+    "description": "You begin spending time with people who create problems around you."
+  },
+  {
+    "id": "card-life-29",
+    "name": "Financial Mistake",
+    "category": "life",
+    "tier": "scrap",
+    "description": "You make a poor financial decision."
+  },
+  {
+    "id": "card-life-30",
+    "name": "Missed Opportunity",
+    "category": "life",
+    "tier": "rust",
+    "description": "A personal commitment causes you to miss an important development opportunity."
+  },
+  {
+    "id": "card-life-31",
+    "name": "Exhausting Lifestyle",
+    "category": "life",
+    "tier": "rust",
+    "description": "Your personal life begins interfering with your recovery."
+  },
+  {
+    "id": "card-life-32",
+    "name": "Social Media Disaster",
+    "category": "life",
+    "tier": "rust",
+    "description": "You post something you immediately regret."
+  },
+  {
+    "id": "card-life-33",
+    "name": "Unwanted Attention",
+    "category": "life",
+    "tier": "scrap",
+    "description": "Your growing fame attracts unwanted attention."
+  },
+  {
+    "id": "card-life-34",
+    "name": "Bad Investment",
+    "category": "life",
+    "tier": "ash",
+    "description": "An investment loses money."
+  },
+  {
+    "id": "card-life-35",
+    "name": "Family Disagreement",
+    "category": "life",
+    "tier": "rust",
+    "description": "A serious disagreement affects your personal stability."
+  },
+  {
+    "id": "card-life-36",
+    "name": "Burnout",
+    "category": "life",
+    "tier": "ash",
+    "description": "You have pushed yourself too hard outside football."
+  },
+  {
+    "id": "card-life-37",
+    "name": "Reckless Purchase",
+    "category": "life",
+    "tier": "rust",
+    "description": "You buy an expensive luxury item you cannot really afford."
+  },
+  {
+    "id": "card-life-38",
+    "name": "Public Argument",
+    "category": "life",
+    "tier": "ash",
+    "description": "You are involved in an argument that becomes public."
+  },
+  {
+    "id": "card-life-39",
+    "name": "Lifestyle Spiral",
+    "category": "life",
+    "tier": "legendary",
+    "description": "Several small bad decisions begin accumulating."
+  },
+  {
+    "id": "card-life-40",
+    "name": "Luxury Lifestyle",
+    "category": "life",
+    "tier": "copper_dagger",
+    "description": "You embrace the celebrity lifestyle."
+  },
+  {
+    "id": "card-life-41",
+    "name": "Nightlife King",
+    "category": "life",
+    "tier": "steel_blade",
+    "description": "You become one of the biggest personalities in the city's nightlife."
+  },
+  {
+    "id": "card-life-42",
+    "name": "Risky Investment",
+    "category": "life",
+    "tier": "steel_blade",
+    "description": "You invest a large portion of your money into a speculative opportunity."
+  },
+  {
+    "id": "card-life-43",
+    "name": "Celebrity Relationship",
+    "category": "life",
+    "tier": "steel_blade",
+    "description": "You begin a highly public relationship with another famous person."
+  },
+  {
+    "id": "card-life-44",
+    "name": "Extreme Training Camp",
+    "category": "life",
+    "tier": "steel_blade",
+    "description": "You pay for an elite private training camp."
+  },
+  {
+    "id": "card-life-45",
+    "name": "Luxury Car",
+    "category": "life",
+    "tier": "copper_dagger",
+    "description": "You purchase an extremely expensive sports car."
+  },
+  {
+    "id": "card-life-46",
+    "name": "Social Media Empire",
+    "category": "life",
+    "tier": "steel_blade",
+    "description": "You aggressively build your personal media presence."
+  },
+  {
+    "id": "card-life-47",
+    "name": "High-Stakes Investment",
+    "category": "life",
+    "tier": "legendary",
+    "description": "You put a substantial amount of money into a volatile investment."
+  },
+  {
+    "id": "card-life-48",
+    "name": "Party Until Dawn",
+    "category": "life",
+    "tier": "legendary",
+    "description": "You become the center of a legendary nightlife story."
+  },
+  {
+    "id": "card-life-49",
+    "name": "Live Like a Superstar",
+    "category": "life",
+    "tier": "legendary",
+    "description": "You decide to fully embrace the lifestyle of a football superstar."
+  },
+  {
+    "id": "card-life-temp-positive-1",
+    "name": "Paris Fashion Week Ambassador",
+    "category": "life",
+    "tier": "legendary",
+    "description": "A 1-year global luxury brand ambassadorship propels your worldwide recognition into the stratosphere."
+  },
+  {
+    "id": "card-life-temp-negative-1",
+    "name": "Tabloid Paparazzi Siege",
+    "category": "life",
+    "tier": "ash",
+    "description": "Relentless paparazzi hounding and private life leaks shatter your daily focus for 6 grueling months."
+  },
+  {
+    "id": "card-life-temp-double-1",
+    "name": "VIP Celebrity Nightlife Circuit",
+    "category": "life",
+    "tier": "muramasa_blade",
+    "description": "Partying with music stars and supermodels brings immense global clout, but drains your physical reserves."
+  },
+  {
+    "id": "card-sponsor-0",
+    "name": "KickFuel",
+    "category": "sponsor",
+    "tier": "bronze",
+    "description": "A tiny fictional sports-drink company looking for a young player to promote its first product."
+  },
+  {
+    "id": "card-sponsor-1",
+    "name": "GoalSnap",
+    "category": "sponsor",
+    "tier": "bronze",
+    "description": "A football photography app wants the player to appear in a promotional campaign."
+  },
+  {
+    "id": "card-sponsor-2",
+    "name": "BootBarn",
+    "category": "sponsor",
+    "tier": "bronze",
+    "description": "A small football equipment retailer offers a promotional partnership."
+  },
+  {
+    "id": "card-sponsor-3",
+    "name": "HydraHydrate",
+    "category": "sponsor",
+    "tier": "bronze",
+    "description": "A regional hydration brand wants the player in social-media advertising."
+  },
+  {
+    "id": "card-sponsor-4",
+    "name": "Adidash",
+    "category": "sponsor",
+    "tier": "silver",
+    "description": "A major sportswear parody brand wants a young professional as part of its next campaign."
+  },
+  {
+    "id": "card-sponsor-5",
+    "name": "Pumah",
+    "category": "sponsor",
+    "tier": "silver",
+    "description": "A global sportswear company wants the player wearing its products during promotional appearances."
+  },
+  {
+    "id": "card-sponsor-6",
+    "name": "FastFood FC",
+    "category": "sponsor",
+    "tier": "silver",
+    "description": "A massive fast-food chain wants the player as a regional ambassador."
+  },
+  {
+    "id": "card-sponsor-7",
+    "name": "PlayStationary",
+    "category": "sponsor",
+    "tier": "silver",
+    "description": "A gaming company wants the player to appear in a football-game promotional campaign."
+  },
+  {
+    "id": "card-sponsor-8",
+    "name": "Nikele",
+    "category": "sponsor",
+    "tier": "gold",
+    "description": "A global sportswear giant offers a serious endorsement deal."
+  },
+  {
+    "id": "card-sponsor-9",
+    "name": "Adibas Elite",
+    "category": "sponsor",
+    "tier": "gold",
+    "description": "The company's premium division wants the player as one of its international faces."
+  },
+  {
+    "id": "card-sponsor-10",
+    "name": "Coca-Colder",
+    "category": "sponsor",
+    "tier": "gold",
+    "description": "A global beverage company wants the player in a worldwide football campaign."
+  },
+  {
+    "id": "card-sponsor-11",
+    "name": "McRonald's",
+    "category": "sponsor",
+    "tier": "gold",
+    "description": "The world's largest burger chain wants the player for an international campaign."
+  },
+  {
+    "id": "card-sponsor-12",
+    "name": "Gooch",
+    "category": "sponsor",
+    "tier": "legendary",
+    "description": "A fictional technology giant wants the player to become the face of its global sports division."
+  },
+  {
+    "id": "card-sponsor-13",
+    "name": "HyperSport International",
+    "category": "sponsor",
+    "tier": "legendary",
+    "description": "A fictional multinational sports conglomerate offers an elite global ambassador contract."
+  },
+  {
+    "id": "card-sponsor-14",
+    "name": "Amazoff",
+    "category": "sponsor",
+    "tier": "legendary",
+    "description": "A global technology and commerce empire wants exclusive promotional rights to the player image."
+  },
+  {
+    "id": "card-sponsor-15",
+    "name": "ScamBank",
+    "category": "sponsor",
+    "tier": "scrap",
+    "description": "A suspicious financial app offers the player a small promotional payment."
+  },
+  {
+    "id": "card-sponsor-16",
+    "name": "CryptoBro Finance",
+    "category": "sponsor",
+    "tier": "scrap",
+    "description": "A questionable financial startup wants the player to promote its investment platform."
+  },
+  {
+    "id": "card-sponsor-17",
+    "name": "ClickBet",
+    "category": "sponsor",
+    "tier": "scrap",
+    "description": "A suspicious betting website offers a small promotional deal."
+  },
+  {
+    "id": "card-sponsor-18",
+    "name": "GetRichFast™",
+    "category": "sponsor",
+    "tier": "rust",
+    "description": "A dubious investment company offers the player a short promotional contract."
+  },
+  {
+    "id": "card-sponsor-19",
+    "name": "NFTiger",
+    "category": "sponsor",
+    "tier": "rust",
+    "description": "An NFT company wants the player to promote its latest collection."
+  },
+  {
+    "id": "card-sponsor-20",
+    "name": "ShadyCoin",
+    "category": "sponsor",
+    "tier": "ash",
+    "description": "A cryptocurrency exchange with an extremely questionable reputation wants the player as its public face."
+  },
+  {
+    "id": "card-sponsor-21",
+    "name": "DebtNow",
+    "category": "sponsor",
+    "tier": "ash",
+    "description": "A financial company offers an unusually large promotional advance."
+  },
+  {
+    "id": "card-sponsor-22",
+    "name": "PonziPro",
+    "category": "sponsor",
+    "tier": "legendary",
+    "description": "A supposedly revolutionary investment company offers an enormous endorsement payment. Company collapses later."
+  },
+  {
+    "id": "card-sponsor-23",
+    "name": "Scamazon",
+    "category": "sponsor",
+    "tier": "legendary",
+    "description": "A mysterious international corporation offers the player a huge endorsement contract."
+  },
+  {
+    "id": "card-sponsor-24",
+    "name": "BankruptBet",
+    "category": "sponsor",
+    "tier": "legendary",
+    "description": "A gambling corporation offers the player an enormous promotional deal."
+  },
+  {
+    "id": "card-sponsor-25",
+    "name": "Debt King",
+    "category": "sponsor",
+    "tier": "legendary",
+    "description": "Offers +€500,000 cash immediately, but requires €1,000,000 repayment 1 year later through Accounting."
+  },
+  {
+    "id": "card-sponsor-26",
+    "name": "CoinKick",
+    "category": "sponsor",
+    "tier": "obsidian_knife",
+    "description": "A tiny crypto startup offers a sponsorship partly paid in its own token. Outcome varies."
+  },
+  {
+    "id": "card-sponsor-27",
+    "name": "MysteryBox FC",
+    "category": "sponsor",
+    "tier": "obsidian_knife",
+    "description": "A sportswear company offers a mystery sponsorship package containing money, equipment, or bad rep."
+  },
+  {
+    "id": "card-sponsor-28",
+    "name": "NFT United",
+    "category": "sponsor",
+    "tier": "copper_dagger",
+    "description": "A fashionable NFT company offers a large endorsement deal."
+  },
+  {
+    "id": "card-sponsor-29",
+    "name": "CryptoBall",
+    "category": "sponsor",
+    "tier": "copper_dagger",
+    "description": "A cryptocurrency platform offers a percentage of promotional revenue."
+  },
+  {
+    "id": "card-sponsor-30",
+    "name": "MoonShot Capital",
+    "category": "sponsor",
+    "tier": "steel_blade",
+    "description": "A mysterious investment company offers a massive endorsement package."
+  },
+  {
+    "id": "card-sponsor-31",
+    "name": "InfluenceX",
+    "category": "sponsor",
+    "tier": "steel_blade",
+    "description": "A controversial social-media company offers an enormous ambassador deal."
+  },
+  {
+    "id": "card-sponsor-32",
+    "name": "CryptoMoon",
+    "category": "sponsor",
+    "tier": "legendary",
+    "description": "A mysterious cryptocurrency empire offers a life-changing sponsorship."
+  },
+  {
+    "id": "card-sponsor-33",
+    "name": "NFT Emperor",
+    "category": "sponsor",
+    "tier": "legendary",
+    "description": "A bizarre billionaire wants the player to become face of world's largest virtual football collection."
+  },
+  {
+    "id": "card-sponsor-34",
+    "name": "North Korea FC",
+    "category": "sponsor",
+    "tier": "legendary",
+    "description": "A fictional state-backed football organization offers an absurdly lucrative sponsorship."
+  },
+  {
+    "id": "card-sponsor-35",
+    "name": "The Golden Gamble",
+    "category": "sponsor",
+    "tier": "legendary",
+    "description": "A mysterious international conglomerate offers €50,000,000 for exclusive 1-year global ambassador rights."
+  },
+  {
+    "id": "card-sponsor-temp-positive-1",
+    "name": "Global Energy Drink Headliner",
+    "category": "sponsor",
+    "tier": "legendary",
+    "description": "A 1-year flagship commercial endorsement contract with immense bonus payouts and TV ad blitz."
+  },
+  {
+    "id": "card-sponsor-temp-negative-1",
+    "name": "Contractual Dispute & Frozen Royalties",
+    "category": "sponsor",
+    "tier": "rust",
+    "description": "Legal conflict with an apparel supplier freezes commercial endorsements and stains your reputation."
+  },
+  {
+    "id": "card-sponsor-temp-double-1",
+    "name": "Worldwide Promo Tour Blitz",
+    "category": "sponsor",
+    "tier": "muramasa_blade",
+    "description": "Astronomical sponsorship revenue (+€750,000) that demands grueling intercontinental flights all year."
+  },
+  {
+    "id": "card-agent-pro-mendez",
+    "name": "Tier 1 Super-Agent (Jorge Style)",
+    "category": "agent",
+    "tier": "legendary",
+    "description": "World-class agency connection unlocking elite club doors, astronomical transfer leverage and commercial empire."
+  },
+  {
+    "id": "card-agent-ruthless-shark",
+    "name": "The Cutthroat Contract Master",
+    "category": "agent",
+    "tier": "gold",
+    "description": "Relentless wage negotiator who squeezes every last euro from club chairmen with ice in his veins."
+  },
+  {
+    "id": "card-agent-trusted-mentor",
+    "name": "The Honest Career Mentor",
+    "category": "agent",
+    "tier": "silver",
+    "description": "Prioritizes playing time and mental stability over quick cash commissions. Solid network and steady guidance."
+  },
+  {
+    "id": "card-agent-scrap-amateur",
+    "name": "Unregistered Local Fixer",
+    "category": "agent",
+    "tier": "scrap",
+    "description": "Amateur representative with zero European contacts who leaks false rumors to cheap tabloids."
+  },
+  {
+    "id": "card-agent-rust-embezzler",
+    "name": "Greedy Commission Squeezer",
+    "category": "agent",
+    "tier": "rust",
+    "description": "Demands hidden agent fees that scare away prospective suitors during transfer windows."
+  },
+  {
+    "id": "card-agent-ash-rebellion",
+    "name": "The Rogue Media Leaker",
+    "category": "agent",
+    "tier": "ash",
+    "description": "Burns bridges with your head coach by openly complaining about tactics on national radio."
+  },
+  {
+    "id": "card-agent-disaster-mob",
+    "name": "Banned Third-Party Extortionist",
+    "category": "agent",
+    "tier": "disaster",
+    "description": "Under FIFA investigation for illegal third-party ownership. Sullies your reputation across world football."
+  },
+  {
+    "id": "card-agent-de-obsidian",
+    "name": "Obsidian Knife: Aggressive Wage Demands",
+    "category": "agent",
+    "tier": "obsidian_knife",
+    "description": "Forces massive weekly wage spikes, but creates friction with club board."
+  },
+  {
+    "id": "card-agent-de-muramasa",
+    "name": "Muramasa Blade: Hostile Buyout King",
+    "category": "agent",
+    "tier": "muramasa_blade",
+    "description": "Triggers nuclear buyout release clauses. Massive fame and millions in commissions, but despised by club supporters."
+  },
+  {
+    "id": "card-agent-temp-positive-1",
+    "name": "Super-Agent Transfer Window Blitz",
+    "category": "agent",
+    "tier": "legendary",
+    "description": "Your manager deploys their absolute highest-level international connections for a 1-year career breakthrough."
+  },
+  {
+    "id": "card-agent-temp-negative-1",
+    "name": "Agent Audit & Legal Injunction",
+    "category": "agent",
+    "tier": "rust",
+    "description": "Agency accounts frozen during tax audit, stalling all contract talks for 6 months."
+  },
+  {
+    "id": "card-match-derby-fever",
+    "name": "Derby Day Adrenaline",
+    "category": "match_day",
+    "tier": "gold",
+    "description": "The stadium is roaring. Your heart races as raw passion fuels every sprint and tackle."
+  },
+  {
+    "id": "card-match-clutch-winner",
+    "name": "Injury-Time Miracle",
+    "category": "match_day",
+    "tier": "legendary",
+    "description": "90+4 minutes on the clock. You demand the ball and unleash a thunderous strike into the top corner."
+  },
+  {
+    "id": "card-interview-good-gold",
+    "name": "Gold: Humble Team First Leader",
+    "category": "interview",
+    "tier": "gold",
+    "description": "Gives full credit to teammates and coaching staff, displaying mature leadership."
+  },
+  {
+    "id": "card-interview-bad-ash",
+    "name": "Ash: Scorched Earth Dressing Room Rant",
+    "category": "interview",
+    "tier": "ash",
+    "description": "Publicly attacks teammates work rate, triggering severe locker room unrest."
+  }
+]

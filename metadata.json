@@ -1,0 +1,8 @@
+{
+  "name": "SEP29",
+  "description": "DrawStar 32-bit footballer career simulation with interactive card store tutorial, audio playlist controls, and authentic retro character creation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

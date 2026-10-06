@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for:\n1. In-Game Text Inspector & Untranslated Text Tracker with exportable JSON/CSV report and canonical vocabulary linking (teams, positions, stats, perks, playstyles, trophies).\n2. True full-screen responsive stack navigation for Mobile (eliminating nested window-in-window in Player Development and career submenus, vertical paging, accessible close/back actions).\n3. Redesigned Global Top Navigation Bar with enlarged clickable DrawStar logo (acting as return-to-main-menu button without redundant text) plus dedicated Back and Home buttons.",
+  "updatedAt":  "2026-09-28T11:27:52.631736452Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
